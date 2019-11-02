@@ -1,0 +1,3098 @@
+[
+    {
+        "text": "Joe, how can you argue that the debate is partisan when Democrats are rising to speak in favor of the Republican motion?",
+        "toxicity_score": 0.071967706,
+        "insult_score": 0.06812556,
+        "profanity_score": 0.02133732
+    },
+    {
+        "text": "Q: But doesn't the fact that Democrats are rising to speak in favor of the Republican motion argue against your contention that it's strictly partisan?",
+        "toxicity_score": 0.15190928,
+        "insult_score": 0.1450685,
+        "profanity_score": 0.069486074
+    },
+    {
+        "text": "That certainly -- it's not dispositive because some Democrats have taken the view that they want to support the Republican proposal.",
+        "toxicity_score": 0.092686765,
+        "insult_score": 0.083412945,
+        "profanity_score": 0.03245017
+    },
+    {
+        "text": "Q: Will that apply to Republicans also?",
+        "toxicity_score": 0.13856998,
+        "insult_score": 0.0962632,
+        "profanity_score": 0.06436308
+    },
+    {
+        "text": "Joe, you said that the Republican leadership was trying to exploit this for electoral advantage.",
+        "toxicity_score": 0.1992543,
+        "insult_score": 0.23850746,
+        "profanity_score": 0.09015899
+    },
+    {
+        "text": "Joe, what I don't understand is when you talk about the Republicans playing for electoral advantage, doesn't that assume there is some electoral advantage to be had from talking about the President's misdeeds.",
+        "toxicity_score": 0.28191432,
+        "insult_score": 0.28945085,
+        "profanity_score": 0.13794862
+    },
+    {
+        "text": "LOCKHART: I think that any chance you have to take the focus off the President's plan to reform HMOs, which the Republicans oppose, any chance you have to take the focus off the President's plans to save Social Security by reserving the surplus to fix the system before we spend it, any chance you have to take the focus off under-funding education and not moving forward with the ideas the President has laid down could serve in an election year as an advantage.",
+        "toxicity_score": 0.1974353,
+        "insult_score": 0.24952115,
+        "profanity_score": 0.14048037
+    },
+    {
+        "text": "Q: Do you see more willingness from the Republican leaders who have been opposing the thing?",
+        "toxicity_score": 0.09472572,
+        "insult_score": 0.08615204,
+        "profanity_score": 0.044203214
+    },
+    {
+        "text": "Q: How far apart are the Republicans -- MR.",
+        "toxicity_score": 0.23165292,
+        "insult_score": 0.2446628,
+        "profanity_score": 0.13017349
+    },
+    {
+        "text": "Q: How far apart are the Republicans and the White House on these spending bills.",
+        "toxicity_score": 0.35416323,
+        "insult_score": 0.291062,
+        "profanity_score": 0.15811224
+    },
+    {
+        "text": "International Financial Situation Q. Mr. President, what's your reaction to the Republican demands on the IMF funding bill, and how closely are you watching the decline of the dollar against the yen?",
+        "toxicity_score": 0.12141544,
+        "insult_score": 0.099591985,
+        "profanity_score": 0.05027855
+    },
+    {
+        "text": "I think we have been intensely negotiating with the Republicans over the last three days with the appropriators up on the Hill and the leadership.",
+        "toxicity_score": 0.09601719,
+        "insult_score": 0.09547195,
+        "profanity_score": 0.0543697
+    },
+    {
+        "text": "Q: The Republican tax cut has been now pared down to some $9 billion.",
+        "toxicity_score": 0.18404812,
+        "insult_score": 0.18226612,
+        "profanity_score": 0.09196305
+    },
+    {
+        "text": "This is the year we've had a trillion dollar tax cut from Republicans on the Hill, down to an $80 billion tax cut, and a lot of weigh stations in between.",
+        "toxicity_score": 0.07269639,
+        "insult_score": 0.058005895,
+        "profanity_score": 0.02500672
+    },
+    {
+        "text": "Q: Joe, on the budget and the CR, how long do you expect this CR to last and if there is a government shut down, do you expect the public will blame the Democrats or the Republicans or a pox on both your houses?",
+        "toxicity_score": 0.32163075,
+        "insult_score": 0.28385192,
+        "profanity_score": 0.16296947
+    },
+    {
+        "text": "Even though there is a dramatic GAO study showing that across this country there is a significant need for new and more modern schools, even though the reports show that demographically there is going to be new buildings made, even though parents everywhere care about having their schools modernized for new technology, we have continually been rebuffed by the Republican majority on this.",
+        "toxicity_score": 0.088527344,
+        "insult_score": 0.09532859,
+        "profanity_score": 0.055990297
+    },
+    {
+        "text": "Well, as Gene said, the biggest differences between Democrats and Republicans in these budget negotiations are over education.",
+        "toxicity_score": 0.062206496,
+        "insult_score": 0.03540494,
+        "profanity_score": 0.010798424
+    },
+    {
+        "text": "Republicans in the House ever since have tried to gut that program.",
+        "toxicity_score": 0.32236293,
+        "insult_score": 0.2731129,
+        "profanity_score": 0.16099633
+    },
+    {
+        "text": "House Republicans have come in with $246 million, cutting it in half.",
+        "toxicity_score": 0.34927988,
+        "insult_score": 0.25547457,
+        "profanity_score": 0.17617457
+    },
+    {
+        "text": "Q: What's your assessment of the general level of progress today with the Republicans and also, specifically, the progress you've made on IMF and paring back the number of riders over which there's disagreement?",
+        "toxicity_score": 0.11901376,
+        "insult_score": 0.10222922,
+        "profanity_score": 0.05402394
+    },
+    {
+        "text": "The fact that 182 Democrats and another 11 Republicans held with the President only weeks before an election to save the surplus entirely, and that the support is so strong in the Senate that the majority leader, as far as I can see, is afraid to even bring it up for a vote, I think shows that the President had a complete victory on saving the surplus.",
+        "toxicity_score": 0.08927938,
+        "insult_score": 0.086574584,
+        "profanity_score": 0.042548705
+    },
+    {
+        "text": "We had over 50 Members of Congress here just a few days ago to ask the Republican leadership to give us just one day, one day to pass a budget that honors our values and cares for our children's future in the area of education.",
+        "toxicity_score": 0.082950786,
+        "insult_score": 0.10028119,
+        "profanity_score": 0.054177344
+    },
+    {
+        "text": "I have asked the Republican majority repeatedly to act on an innovative plan to help communities modernize or build 5,000 schools.",
+        "toxicity_score": 0.049697537,
+        "insult_score": 0.07833277,
+        "profanity_score": 0.053435598
+    },
+    {
+        "text": "We are here not simply to state our strong conviction and our willingness—the willingness of these people who have to run—to defer their campaigns to take care of our children's future but to invite our Republican colleagues to join us and finally try to salvage some shred of positive accomplishment for the American people.",
+        "toxicity_score": 0.08154778,
+        "insult_score": 0.07530241,
+        "profanity_score": 0.033369582
+    },
+    {
+        "text": "This week, unfortunately, we saw partisanship defeat progress, as 51 Republican Senators joined together to kill the HMO Patients' Bill of Rights.",
+        "toxicity_score": 0.5162695,
+        "insult_score": 0.41188237,
+        "profanity_score": 0.32020828
+    },
+    {
+        "text": "But the Republican majority in Congress hasn't even passed the annual education investment bill yet.",
+        "toxicity_score": 0.067022584,
+        "insult_score": 0.0703302,
+        "profanity_score": 0.026404047
+    },
+    {
+        "text": "I ask the Republicans in Congress to join the Democrats to put progress over partisanship, and send me a full education investment bill.",
+        "toxicity_score": 0.09948079,
+        "insult_score": 0.103837326,
+        "profanity_score": 0.060793497
+    },
+    {
+        "text": "And we are waiting for the Republican majority in Congress to bring this year's education investment bill to the floor.",
+        "toxicity_score": 0.060011845,
+        "insult_score": 0.057198446,
+        "profanity_score": 0.027014615
+    },
+    {
+        "text": "And in just the last 2 days, Republicans and Democrats have worked together to pass strong charter school and vocational education measures.",
+        "toxicity_score": 0.06458368,
+        "insult_score": 0.07682585,
+        "profanity_score": 0.051492736
+    },
+    {
+        "text": "Senator Daschle, Congressman Gephardt, their Democratic colleagues, and I will work with the Republican majority to do the right thing for our country.",
+        "toxicity_score": 0.0571306,
+        "insult_score": 0.059547354,
+        "profanity_score": 0.03130366
+    },
+    {
+        "text": "Q. Mr. President, the Republican leaders were saying this morning that if you were serious about reaching this budget deal, that you would stay in Washington instead of going on to fundraisers tomorrow and the following day.",
+        "toxicity_score": 0.11600357,
+        "insult_score": 0.11162179,
+        "profanity_score": 0.060836848
+    },
+    {
+        "text": "And I don't see how any Republican could criticize any Democrat for not voting in Congress this year.",
+        "toxicity_score": 0.17368734,
+        "insult_score": 0.13432899,
+        "profanity_score": 0.061342947
+    },
+    {
+        "text": "So nobody in the Republican Party should be blaming any of the Democrats for what they didn't do.",
+        "toxicity_score": 0.16489673,
+        "insult_score": 0.101782285,
+        "profanity_score": 0.03970901
+    },
+    {
+        "text": "And if I were a member of the Republican majority, I would not be criticizing Chuck Schumer for what he did in this Congress, because what they've done is to kill campaign finance reform, to kill the tobacco reform legislation, to kill the minimum wage increase, to kill the Patients' Bill of Rights, to try to stop us from saving the surplus for Social Security reform.",
+        "toxicity_score": 0.38284716,
+        "insult_score": 0.2543874,
+        "profanity_score": 0.22455983
+    },
+    {
+        "text": "I also, if I were this particular Republican from New York, I wouldn't be talking about Chuck Schumer's voting record, because we are enjoying the first surplus in 29 years in no small measure because in 1993, without a single Republican vote and without a vote to spare, Congressman Schumer, Congressman Nadler, and the Democratic caucus voted for an economic program that reduced the deficit by 92 percent, before we had the bipartisan balanced budget agreement of last year.",
+        "toxicity_score": 0.15745135,
+        "insult_score": 0.24097386,
+        "profanity_score": 0.14757934
+    },
+    {
+        "text": "I remember well the crime bill of 1994, when the Democrats were in the majority in the Senate and the Republicans were in the minority, but they were trying to filibuster to keep us from actually even getting a vote on the crime bill—even bringing it to a vote.",
+        "toxicity_score": 0.16415831,
+        "insult_score": 0.13432392,
+        "profanity_score": 0.07580834
+    },
+    {
+        "text": "And we continue to work with the Republicans to try to reach some sort of agreement.",
+        "toxicity_score": 0.13584603,
+        "insult_score": 0.11018579,
+        "profanity_score": 0.06921584
+    },
+    {
+        "text": "Is it your expectation that Republicans would not be going to these lengths to come up with some kind of a compromise on reform if they didn't also plan to ask Chris Smith to stand down?",
+        "toxicity_score": 0.10181445,
+        "insult_score": 0.09003428,
+        "profanity_score": 0.040644437
+    },
+    {
+        "text": "Q: Congressional Democrats are also objecting to a Republican plan in a Labor HHS bill to have a provision that would allow HMOs to have a morals exception, so they could deny coverage of contraception.",
+        "toxicity_score": 0.18087424,
+        "insult_score": 0.15568459,
+        "profanity_score": 0.08446708
+    },
+    {
+        "text": "Q: Republican leaders are also complaining that in the tax area the Democrats and the White House have moved this extender's bill, which was only about $9 billion, all the way up to up to $23 billion.",
+        "toxicity_score": 0.22966014,
+        "insult_score": 0.28142962,
+        "profanity_score": 0.16386934
+    },
+    {
+        "text": "And the members of the Republican majority are philosophically opposed to it.",
+        "toxicity_score": 0.114976116,
+        "insult_score": 0.08407602,
+        "profanity_score": 0.034487467
+    },
+    {
+        "text": "I don't have a clue whether these kids' parents are Democrats or Republicans or independents, and frankly, I could care less.",
+        "toxicity_score": 0.28530192,
+        "insult_score": 0.33253676,
+        "profanity_score": 0.16119659
+    },
+    {
+        "text": "-- you mentioned that the Republicans are willing to spend this $1.1 billion, but that they don't want the money specifically earmarked for hiring of new teachers.",
+        "toxicity_score": 0.11767309,
+        "insult_score": 0.10904197,
+        "profanity_score": 0.035619676
+    },
+    {
+        "text": "Are you saying now, with regard to the school construction that you want the Republicans to get off the dime on this, but if they don't, so be it?",
+        "toxicity_score": 0.15697122,
+        "insult_score": 0.16125332,
+        "profanity_score": 0.07900591
+    },
+    {
+        "text": "Republicans say that you're handing out paper and holding a conference, but Democrats are opposing both a juvenile justice bill that would address -- seriously address the issue of serious crime by juveniles and that the Democrats are also resisting in the examination of the Safe and Drug-Free Schools program, the major program that addresses school violence and drugs.",
+        "toxicity_score": 0.22694287,
+        "insult_score": 0.23179534,
+        "profanity_score": 0.112880245
+    },
+    {
+        "text": "Q: -- the Republicans are going to -- meaning what?",
+        "toxicity_score": 0.21556833,
+        "insult_score": 0.19070542,
+        "profanity_score": 0.1029674
+    },
+    {
+        "text": "The Democrats on the Hill are proposing a longer list of witnesses to apparently bring up than the Republicans would like to.",
+        "toxicity_score": 0.109317414,
+        "insult_score": 0.107205816,
+        "profanity_score": 0.041509505
+    },
+    {
+        "text": "As I reported to you this morning, there were several meetings this morning, with both Democrats and the Republican leadership, and with the Democratic Caucus.",
+        "toxicity_score": 0.11210624,
+        "insult_score": 0.10663444,
+        "profanity_score": 0.06935418
+    },
+    {
+        "text": "I understand the Republicans have made some arguments about sending the money out, but just sending it without any target or restrictions.",
+        "toxicity_score": 0.11923089,
+        "insult_score": 0.081118375,
+        "profanity_score": 0.039363306
+    },
+    {
+        "text": "And, in fact, I mentioned this morning that there are even some Republicans now who are touting the COPS program.",
+        "toxicity_score": 0.08788656,
+        "insult_score": 0.07505136,
+        "profanity_score": 0.041249502
+    },
+    {
+        "text": "To express the view of the President, he can't understand why the idea of using a tax break to spend $5 billion over five years, leveraged to $22 billion, to the local communities to rebuild 5,000 schools has become a partisan issue, has become one that the Republicans are so entrenched against and are unwilling to cede any ground.",
+        "toxicity_score": 0.16611682,
+        "insult_score": 0.16553265,
+        "profanity_score": 0.08789326
+    },
+    {
+        "text": "it sounds like, by waiting so long and not getting its work done, the Republican Congress has gotten its way on school construction.",
+        "toxicity_score": 0.11200547,
+        "insult_score": 0.10821003,
+        "profanity_score": 0.05404626
+    },
+    {
+        "text": "Well, I would look back at the argument -- I think we were pretty careful on the offsets to actually go and look at things that the Republicans in the past have endorsed.",
+        "toxicity_score": 0.07282205,
+        "insult_score": 0.075168796,
+        "profanity_score": 0.038739365
+    },
+    {
+        "text": "And in this case, the Republicans have endorsed this.",
+        "toxicity_score": 0.07621084,
+        "insult_score": 0.065376416,
+        "profanity_score": 0.032801963
+    },
+    {
+        "text": "Can you explain why they just went up Monday given that you're complaining that the Republicans dragged their feet for eight months?",
+        "toxicity_score": 0.22319235,
+        "insult_score": 0.15808979,
+        "profanity_score": 0.08496117
+    },
+    {
+        "text": "Q: Congressional Republican leaders are aggressively pressuring business and trade groups not to hire a Democrat as their chief executives and lobbyists.",
+        "toxicity_score": 0.13728014,
+        "insult_score": 0.14120148,
+        "profanity_score": 0.059998836
+    },
+    {
+        "text": "I think those of you who remember the Republicans coming in in 1995, Congressman DeLay was quoted widely saying that it's time to punish our enemies and reward our friends.",
+        "toxicity_score": 0.13718422,
+        "insult_score": 0.11592951,
+        "profanity_score": 0.057370167
+    },
+    {
+        "text": "Speaker Gingrich said you were now the White House Chief of Staff, or you would officially be named the White House Chief of Staff.",
+        "toxicity_score": 0.13776332,
+        "insult_score": 0.12503576,
+        "profanity_score": 0.07803471
+    },
+    {
+        "text": "Q: Why do you think Republicans gave in on so many issues?",
+        "toxicity_score": 0.191031,
+        "insult_score": 0.11959689,
+        "profanity_score": 0.08192899
+    },
+    {
+        "text": "On school construction, it's likely, though, that the Republicans will want a major tax cut next year.",
+        "toxicity_score": 0.09816797,
+        "insult_score": 0.09267062,
+        "profanity_score": 0.047042187
+    },
+    {
+        "text": "I think we've already seen it in the budget fight we've had over the last week and the agenda that the congressional Republicans have laid out, in contrast to the agenda that the Democratic Party has laid out.",
+        "toxicity_score": 0.1602889,
+        "insult_score": 0.13857375,
+        "profanity_score": 0.097230524
+    },
+    {
+        "text": "Q: How hard did Republicans push for the major tax cut in the negotiations?",
+        "toxicity_score": 0.12225869,
+        "insult_score": 0.08502424,
+        "profanity_score": 0.06393732
+    },
+    {
+        "text": "And was the division between the House and Senate Republicans --",
+        "toxicity_score": 0.12340806,
+        "insult_score": 0.12307424,
+        "profanity_score": 0.073005155
+    },
+    {
+        "text": "There was no sign of a division between the House and Senate Republicans during negotiations.",
+        "toxicity_score": 0.08487398,
+        "insult_score": 0.074403375,
+        "profanity_score": 0.035935663
+    },
+    {
+        "text": "We clearly believe that the President should have the traditional trade authority and we hope to be able to come back and work in a way that forms a new consensus where we can bring Democrats and Republicans together on an open market agenda that strengthens labor and environmental standards.",
+        "toxicity_score": 0.06440799,
+        "insult_score": 0.06237134,
+        "profanity_score": 0.028807472
+    },
+    {
+        "text": "And so we very much appreciate the bipartisan effort, Democrats and Republicans in the House of Representatives, to pass the IMF.",
+        "toxicity_score": 0.053508993,
+        "insult_score": 0.04376608,
+        "profanity_score": 0.018349068
+    },
+    {
+        "text": "Well, as you know, we did work together on a bipartisan basis with Senator McCain and others to develop a comprehensive bipartisan tobacco bill, which the administration endorsed and which had a majority of votes in the Senate, but was killed at the last minute by the Republican leadership.",
+        "toxicity_score": 0.11619737,
+        "insult_score": 0.11415008,
+        "profanity_score": 0.08673635
+    },
+    {
+        "text": "Whether their strategy of investigation and open-ended investigations is something they intend to pursue once they face the voters in November is something I think that Republican members of both the House and Senate will have to consider.",
+        "toxicity_score": 0.06496466,
+        "insult_score": 0.065187655,
+        "profanity_score": 0.019360088
+    },
+    {
+        "text": "And finally, let me say, I would like to thank the leaders of the Republican Party who made these agreements with us.",
+        "toxicity_score": 0.09602551,
+        "insult_score": 0.093632646,
+        "profanity_score": 0.07378381
+    },
+    {
+        "text": "Now, I wish we had been able to persuade the Republican majority to give us the school construction and rehabilitation proposal, because we need modern facilities, and that proposal is a paid-for-tax cut in the balanced budget that would enable us to build or rehabilitate 5,000 schools.",
+        "toxicity_score": 0.0849542,
+        "insult_score": 0.10532734,
+        "profanity_score": 0.05803208
+    },
+    {
+        "text": "Budget Agreement Yesterday our administration and the Democrats in Congress reached agreement with the Republican leadership on a fiscally responsible balanced budget that seizes this moment of prosperity and wisely invests it in the future.",
+        "toxicity_score": 0.06511977,
+        "insult_score": 0.068322696,
+        "profanity_score": 0.03204814
+    },
+    {
+        "text": "We fought for and won the ability to protect precious lands in America, and we struck down the worst of the antienvironmental provisions the Republicans had put into the budget bill, because of the people who are standing behind me.",
+        "toxicity_score": 0.28563243,
+        "insult_score": 0.24740922,
+        "profanity_score": 0.1291718
+    },
+    {
+        "text": "And we worked and worked and worked for 8 long months until finally we were able to persuade the Republican majority to join with us in funding America's responsibility to the International Monetary Fund so that we can protect the American economy and fulfill our responsibility to stabilize the global economy.",
+        "toxicity_score": 0.05497498,
+        "insult_score": 0.039014228,
+        "profanity_score": 0.014177693
+    },
+    {
+        "text": "The Republican majority is now leaving town to campaign, but they're also leaving a lot of America's business unfinished.",
+        "toxicity_score": 0.12287944,
+        "insult_score": 0.10618344,
+        "profanity_score": 0.0708028
+    },
+    {
+        "text": "You know, I must say, of all the things that we disagreed with the Republicans on this year, this one mystified me the most.",
+        "toxicity_score": 0.210854,
+        "insult_score": 0.19251044,
+        "profanity_score": 0.09094629
+    },
+    {
+        "text": "Republican partisanship killed an increase in the minimum wage.",
+        "toxicity_score": 0.43980733,
+        "insult_score": 0.31065768,
+        "profanity_score": 0.24998415
+    },
+    {
+        "text": "We had a handful of Republicans who did agree with us on this, but the majority was able to defeat us.",
+        "toxicity_score": 0.1788277,
+        "insult_score": 0.14878017,
+        "profanity_score": 0.07640289
+    },
+    {
+        "text": "And in 18 days, after a blizzard of advertisements—probably 2 or 3 times as much from the Republican side as from ours, maybe even more when you count the third-party committees and all that—they will make a decision.",
+        "toxicity_score": 0.06098957,
+        "insult_score": 0.05590149,
+        "profanity_score": 0.022896577
+    },
+    {
+        "text": "That's why I worked with Democratic and Republican Members of Congress to meet our commitment to the IMF, with a package of tough reforms to make the Fund more accountable, more focused on growth, better equipped to address the economic crisis of the 21st century.",
+        "toxicity_score": 0.073396616,
+        "insult_score": 0.079062305,
+        "profanity_score": 0.028500047
+    },
+    {
+        "text": "Joe, if we could change the subject to the meeting in a half an hour in the House Judiciary Committee between the White House legal team and the investigators, Democratic and Republican investigators.",
+        "toxicity_score": 0.14296238,
+        "insult_score": 0.16636822,
+        "profanity_score": 0.11034467
+    },
+    {
+        "text": "Q: Some conservative Republicans are suggesting that the Republican leadership completely folded and let the President have his way on the budget.",
+        "toxicity_score": 0.21512774,
+        "insult_score": 0.233555,
+        "profanity_score": 0.1404163
+    },
+    {
+        "text": "I think, secondly, and perhaps more importantly, the President will continue to make the case on the issues for what distinguishes the Democratic approach, as what we saw in Congress in this session, from the Republican approach.",
+        "toxicity_score": 0.053743687,
+        "insult_score": 0.048347037,
+        "profanity_score": 0.023654254
+    },
+    {
+        "text": "Speaking of Pinochet, Congressman Lincoln Diaz-Balart, a Republican from Florida, and seven other congressmen have written a letter to President Clinton saying if that Spain -- basically if Spain can go after Pinochet, the United States should go after Fidel Castro for crimes such as shooting down those three planes from Brothers to the Rescue.",
+        "toxicity_score": 0.20350388,
+        "insult_score": 0.18650325,
+        "profanity_score": 0.08731852
+    },
+    {
+        "text": "I think that it's troubling that members of the Republican Party, the party opposite, have made clear that someone's sexual orientation is a disqualifier to serve as an ambassador.",
+        "toxicity_score": 0.37026426,
+        "insult_score": 0.44196397,
+        "profanity_score": 0.2410317
+    },
+    {
+        "text": "I commend the Democrats and Republicans who worked to give Dr. Henney a full and fair hearing and help expedite this confirmation.",
+        "toxicity_score": 0.07313531,
+        "insult_score": 0.07621837,
+        "profanity_score": 0.03954623
+    },
+    {
+        "text": "I hope we will have support from Republicans and Democrats in that endeavor.",
+        "toxicity_score": 0.083825655,
+        "insult_score": 0.04628294,
+        "profanity_score": 0.026537055
+    },
+    {
+        "text": "So if you think about the great challenges of America, if you think about the health care challenge, if you think about the education challenge, if you think about the Social Security challenge, if you think about the need that this Congress passed up under pressure from the tobacco companies to pass legislation to protect our children from the dangers of tobacco, still the number one public health problem in the country—they passed up a chance to pass the campaign finance reform, even though we had a bill that had some Republican supporters as well; they've passed up a chance to raise the minimum wage, even though you can't raise a family on $5.15 an hour, and we'll never have an easier time when the unemployment rate and the inflation rate are both so low—there is a lot to do.",
+        "toxicity_score": 0.049308963,
+        "insult_score": 0.042152487,
+        "profanity_score": 0.016658556
+    },
+    {
+        "text": "—I hope only for a few more days—and we have the White House, we don't have enough numbers to pass bills unless Republicans join with us.",
+        "toxicity_score": 0.22594339,
+        "insult_score": 0.16374221,
+        "profanity_score": 0.08712125
+    },
+    {
+        "text": "I think the focus for Democrats and probably Republicans over the next seven or eight days is on get out the vote, what we can do.",
+        "toxicity_score": 0.09475326,
+        "insult_score": 0.08443742,
+        "profanity_score": 0.03684503
+    },
+    {
+        "text": "Q: Joe, on the impeachment standards issue, some Republicans are now pointing out that in the case of three federal judges who were recently impeached, no standards were set beforehand.",
+        "toxicity_score": 0.10751556,
+        "insult_score": 0.08458485,
+        "profanity_score": 0.046226718
+    },
+    {
+        "text": "Well, I think, if you look at the calendar, Sunday is two days before the election and the President wants to make sure that people are motivated to get out to the polls, because you've heard him talk a lot in the last few days about the importance of people actually going to the polls and sending a message about whether they like the Democratic agenda and the Democratic approach or the Republican agenda.",
+        "toxicity_score": 0.06290173,
+        "insult_score": 0.0374074,
+        "profanity_score": 0.018129472
+    },
+    {
+        "text": "Joe, do you know that he -- in other words, has the President invited the Republican leadership to this conference on December 8th and 9th, and has he gotten acceptances from them, or not?",
+        "toxicity_score": 0.101761095,
+        "insult_score": 0.12289103,
+        "profanity_score": 0.08775207
+    },
+    {
+        "text": "I don't believe any -- we have from the very beginning worked with the Republican and Democratic leadership on both sides of the Hill to structure a process where we can find a long-term solution to this problem, and we will continue to do so.",
+        "toxicity_score": 0.09321447,
+        "insult_score": 0.09926464,
+        "profanity_score": 0.061858732
+    },
+    {
+        "text": "Q: Once again, if the Republican tax cut had gone through, how would that have impacted on the future of Social Security?",
+        "toxicity_score": 0.26665774,
+        "insult_score": 0.22764939,
+        "profanity_score": 0.15799633
+    },
+    {
+        "text": "We are realistic in our hopes, based on the amount of money that Republicans are spending to mitigate that Democratic agenda.",
+        "toxicity_score": 0.123329245,
+        "insult_score": 0.124403074,
+        "profanity_score": 0.0651934
+    },
+    {
+        "text": "Q: Is there anything these particular groups should be worried about -- the women's groups, the African American, the older American -- if the Republicans do really well on Tuesday?",
+        "toxicity_score": 0.24616376,
+        "insult_score": 0.2535272,
+        "profanity_score": 0.13068955
+    },
+    {
+        "text": "If you take an issue like education, there are vast differences between how Democrats approach the issue and how Republicans do.",
+        "toxicity_score": 0.11185951,
+        "insult_score": 0.09115992,
+        "profanity_score": 0.05053933
+    },
+    {
+        "text": "The Republicans have killed it two years in a row.",
+        "toxicity_score": 0.6191311,
+        "insult_score": 0.39484727,
+        "profanity_score": 0.32050022
+    },
+    {
+        "text": "And I'm wondering, how much of a difference in this campaign right now has the Republican campaign finance investigation made?",
+        "toxicity_score": 0.06802502,
+        "insult_score": 0.041913494,
+        "profanity_score": 0.024425974
+    },
+    {
+        "text": "Just a couple of weeks ago we reached agreement with the Republican majority on a fiscally responsible balanced budget that seizes this moment of prosperity to invest more in our future.",
+        "toxicity_score": 0.08024515,
+        "insult_score": 0.0804432,
+        "profanity_score": 0.037981372
+    },
+    {
+        "text": "And the other is the natural advantage Republicans have when the voter turnout goes down because their electorate tends to be older and wealthier and more reliable even in off-year elections.",
+        "toxicity_score": 0.10917175,
+        "insult_score": 0.104135215,
+        "profanity_score": 0.04107011
+    },
+    {
+        "text": "But recently, Republican leaders are still saying the surplus should go to fund tax cuts first, and the Senate majority leader has suggested that he may not even be willing to work with me to save Social Security.",
+        "toxicity_score": 0.052778088,
+        "insult_score": 0.04321088,
+        "profanity_score": 0.016413594
+    },
+    {
+        "text": "The leadership of the Republican Party apparently disagrees with that.",
+        "toxicity_score": 0.081056625,
+        "insult_score": 0.06742766,
+        "profanity_score": 0.029031284
+    },
+    {
+        "text": "Even though some Republicans have supported that, their leadership disagrees with that.",
+        "toxicity_score": 0.07161666,
+        "insult_score": 0.066017345,
+        "profanity_score": 0.019965323
+    },
+    {
+        "text": "1998 Elections Q. Mr. President, on the latest Republican campaign commercials, do you think it's fair for them to try to cast your personal life as a campaign issue?",
+        "toxicity_score": 0.16318226,
+        "insult_score": 0.15394881,
+        "profanity_score": 0.078523666
+    },
+    {
+        "text": "Well, first of all, I think the Republicans are free—in our country, they're free, and they should be free to make the election about whatever they want to make the election about.",
+        "toxicity_score": 0.14436437,
+        "insult_score": 0.12184842,
+        "profanity_score": 0.08696957
+    },
+    {
+        "text": "The Republicans are free to say whatever they want to say.",
+        "toxicity_score": 0.122146964,
+        "insult_score": 0.10112004,
+        "profanity_score": 0.052450564
+    },
+    {
+        "text": "1998 Elections Q. Mr. President, you said a moment ago that Republicans have a right to frame their ads in this election as they see fit.",
+        "toxicity_score": 0.087356046,
+        "insult_score": 0.08914353,
+        "profanity_score": 0.051375277
+    },
+    {
+        "text": "Two ways they've framed these latest ads—number one, they argue, in essence, that you are not trustworthy, and therefore, you need a Republican Congress to balance against your Presidency.",
+        "toxicity_score": 0.20071006,
+        "insult_score": 0.2598417,
+        "profanity_score": 0.090755515
+    },
+    {
+        "text": "1998 Elections Q. Mr. President, the other theme that these new Republican ads say is this—I hate to beat a dead horse, but I'll just give you an opportunity to respond to it—they say the question of this election is this: Reward Bill Clinton or vote Republican.",
+        "toxicity_score": 0.32216457,
+        "insult_score": 0.2651185,
+        "profanity_score": 0.18178286
+    },
+    {
+        "text": "apparently a few people in the Republican Party.",
+        "toxicity_score": 0.13698299,
+        "insult_score": 0.115003906,
+        "profanity_score": 0.06407464
+    },
+    {
+        "text": "And the Republicans make no secret of the fact that they want to abandon that fiscal discipline.",
+        "toxicity_score": 0.16309872,
+        "insult_score": 0.1397653,
+        "profanity_score": 0.06634386
+    },
+    {
+        "text": "But we will go with a principle that the Democrats are united, and we've got varying views from the Republican Party,",
+        "toxicity_score": 0.03947577,
+        "insult_score": 0.030371763,
+        "profanity_score": 0.015261479
+    },
+    {
+        "text": "Joe, you've had your Republican Lewinsky flight of ads, you've had the Democratic response ads now.",
+        "toxicity_score": 0.12128689,
+        "insult_score": 0.10988321,
+        "profanity_score": 0.07566845
+    },
+    {
+        "text": "We find out this morning that Speaker Gingrich was intimately involved in putting these ads together, dealing with the focus groups.",
+        "toxicity_score": 0.08745983,
+        "insult_score": 0.10024602,
+        "profanity_score": 0.06360967
+    },
+    {
+        "text": "And the Republicans want to talk about investigations.",
+        "toxicity_score": 0.12978345,
+        "insult_score": 0.106970094,
+        "profanity_score": 0.05534734
+    },
+    {
+        "text": "Republicans have said they'll spend $10 million to talk about investigations.",
+        "toxicity_score": 0.1073326,
+        "insult_score": 0.07884356,
+        "profanity_score": 0.032417107
+    },
+    {
+        "text": "We won't know how this plays out until Tuesday, but it certainly makes the choice clearer, and it certainly indicates to voters what Newt Gingrich and the Republicans are interested in and what they want to do here in Washington, and what the Democrats and the President want to do.",
+        "toxicity_score": 0.122675896,
+        "insult_score": 0.16134544,
+        "profanity_score": 0.09155232
+    },
+    {
+        "text": "LOCKHART: I think you've seen what the President's focus has been on the last few days -- on international economics, on issues like education and Social Security, and trying to sharpen the focus to help voters understand the difference between what the Democrats want to do and what the Republicans want to do.",
+        "toxicity_score": 0.11760038,
+        "insult_score": 0.14671783,
+        "profanity_score": 0.0933171
+    },
+    {
+        "text": "Q: Do you think the Republicans are dragging their feet now on this impeachment process?",
+        "toxicity_score": 0.23778507,
+        "insult_score": 0.21810186,
+        "profanity_score": 0.09236212
+    },
+    {
+        "text": "New York has had some great Senators: Robert Wagner—so many years ago—the whole framework of our labor laws protecting the dignity of working people in the workplace; Herbert Lehman; Jacob Javits, a great Republican Senator; Senator Moynihan; Robert Kennedy.",
+        "toxicity_score": 0.06606493,
+        "insult_score": 0.084633626,
+        "profanity_score": 0.06279176
+    },
+    {
+        "text": "All year long we had forums around the country, Democrats and Republicans together, talking about these ideas, honestly debating what the options were.",
+        "toxicity_score": 0.08370222,
+        "insult_score": 0.080859125,
+        "profanity_score": 0.0437817
+    },
+    {
+        "text": "Released October 30 Transcript of a press briefing by Press Secretary Joe Lockhart Transcript of a press briefing by Treasury Secretary Robert Rubin, National Economic Council Director Gene Sperling, and Deputy Treasury Secretary Larry Summers on efforts to deal with the international financial crisis Transcript of remarks by White House Special Counsel Gregory Craig on evidence of violations of grand jury secrecy by the Office of the Independent Counsel Transcript of remarks by Vice President Al Gore on Republican attacks on the President Advance text of remarks by National Security Adviser Samuel Berger at the National Press Club Statement by the Press Secretary: 1998 National Security Strategy Report",
+        "toxicity_score": 0.03426781,
+        "insult_score": 0.109438136,
+        "profanity_score": 0.09821056
+    },
+    {
+        "text": "We stopped the Republican majority in the House from squandering the surplus in an election-year tax plan.",
+        "toxicity_score": 0.19179438,
+        "insult_score": 0.16400982,
+        "profanity_score": 0.08321128
+    },
+    {
+        "text": "House Republican leaders have reaffirmed their desire to spend the surplus before we have a plan in place to save Social Security.",
+        "toxicity_score": 0.078405105,
+        "insult_score": 0.075993575,
+        "profanity_score": 0.044601336
+    },
+    {
+        "text": "And the Republican leader in the Senate now says he may not even work with me on saving Social Security.",
+        "toxicity_score": 0.11665295,
+        "insult_score": 0.11001185,
+        "profanity_score": 0.053684674
+    },
+    {
+        "text": "Unfortunately, the Republican leadership in Congress failed the simple test to pass my school construction initiative to help communities build, repair, and modernize 5,000 schools around our country.",
+        "toxicity_score": 0.13465782,
+        "insult_score": 0.21258572,
+        "profanity_score": 0.1007588
+    },
+    {
+        "text": "At a time when our children's education matters more than ever to our children's future and to our Nation's strength in the 21st century, there are still even some Republicans in Congress who would shut down the Department of Education.",
+        "toxicity_score": 0.106635116,
+        "insult_score": 0.12372405,
+        "profanity_score": 0.055154763
+    },
+    {
+        "text": "Republican Campaign Ads Ms. Ryan.",
+        "toxicity_score": 0.06753407,
+        "insult_score": 0.052747503,
+        "profanity_score": 0.026841668
+    },
+    {
+        "text": "You have people like Newt Gingrich who said—well, the Washington Post said that Newt Gingrich orchestrated attempts to make you look bad through Republican campaign ads.",
+        "toxicity_score": 0.20049998,
+        "insult_score": 0.20323339,
+        "profanity_score": 0.07017188
+    },
+    {
+        "text": "If you look at the history of these midterm elections, particularly in the sixth year of a Presidency, almost everyone concedes, even the Republicans do, that we're going to outperform the historical average.",
+        "toxicity_score": 0.074148215,
+        "insult_score": 0.069468915,
+        "profanity_score": 0.027327437
+    },
+    {
+        "text": "And of course, it's unbelievable, since they have literally raised, through the Senate and House committees and the Republican National Committee, $110 million more than our people have.",
+        "toxicity_score": 0.07207844,
+        "insult_score": 0.07149972,
+        "profanity_score": 0.031092208
+    },
+    {
+        "text": "I wish they hadn't elected the Republican majority in 1994.",
+        "toxicity_score": 0.17950065,
+        "insult_score": 0.17319924,
+        "profanity_score": 0.07927774
+    },
+    {
+        "text": "Everybody listen to me, everybody within the sound of our voice, yours and mine, on Tuesday they count just as much as I do; they count just as much as Mr. Gingrich does; they count just as much as any editor of any newspaper or any owner of any television network.",
+        "toxicity_score": 0.103022456,
+        "insult_score": 0.090848275,
+        "profanity_score": 0.06717978
+    },
+    {
+        "text": "Well, for the last several elections there have been examples in various States of Republicans either actually or threatening to try to intimidate or try to invalidate the votes of African-Americans in precincts that are overwhelmingly African-American, mostly in places where they think it might change the outcome of an election.",
+        "toxicity_score": 0.2139023,
+        "insult_score": 0.2184082,
+        "profanity_score": 0.122219324
+    },
+    {
+        "text": "We asked the Republicans to renounce it yesterday.",
+        "toxicity_score": 0.07349216,
+        "insult_score": 0.05560419,
+        "profanity_score": 0.029503582
+    },
+    {
+        "text": "I would challenge the Republican Party to stand up and stop it.",
+        "toxicity_score": 0.25472438,
+        "insult_score": 0.20090266,
+        "profanity_score": 0.10530513
+    },
+    {
+        "text": "I haven't discouraged any Republicans from voting on Tuesday.",
+        "toxicity_score": 0.088172436,
+        "insult_score": 0.065441824,
+        "profanity_score": 0.026644723
+    },
+    {
+        "text": "But you know what the Republicans are going to say.",
+        "toxicity_score": 0.23569728,
+        "insult_score": 0.22622357,
+        "profanity_score": 0.107652225
+    },
+    {
+        "text": "Listen, nothing would please me more than to say this is something that the Republicans have renounced, and we're going to both be together from now on forever for everybody voting.",
+        "toxicity_score": 0.16481526,
+        "insult_score": 0.13681385,
+        "profanity_score": 0.07797624
+    },
+    {
+        "text": "You know all over America today there are people in other churches who have a different view, who believe that their principles require them to vote only for people at the extreme right wing of the Republican Party.",
+        "toxicity_score": 0.090354286,
+        "insult_score": 0.074626364,
+        "profanity_score": 0.027266463
+    },
+    {
+        "text": "I think in North Carolina, one of the Republican members of the Board of Elections said that they thought this was an attempt to intimidate.",
+        "toxicity_score": 0.17485693,
+        "insult_score": 0.13305214,
+        "profanity_score": 0.065431416
+    },
+    {
+        "text": "Now, the Republican Party is calling for the President to apologize for his comments made in the interview yesterday about voter intimidation at their hands.",
+        "toxicity_score": 0.21427424,
+        "insult_score": 0.23628803,
+        "profanity_score": 0.09637608
+    },
+    {
+        "text": "No, I think the President has made very clear what he thinks, and I think it should be very clear to anyone within the Republican Party what they should do.",
+        "toxicity_score": 0.092084035,
+        "insult_score": 0.08795062,
+        "profanity_score": 0.04506857
+    },
+    {
+        "text": "What you seem to be saying here today is that this is a Republican phenomenon.",
+        "toxicity_score": 0.17824599,
+        "insult_score": 0.15271318,
+        "profanity_score": 0.05731948
+    },
+    {
+        "text": "This is the blame -- the blame belongs to the Republican Party.",
+        "toxicity_score": 0.25425997,
+        "insult_score": 0.23731296,
+        "profanity_score": 0.09669794
+    },
+    {
+        "text": "Or are you saying the Republican Party here in Washington, the national Republican leadership, is responsible for this?",
+        "toxicity_score": 0.1425112,
+        "insult_score": 0.10931364,
+        "profanity_score": 0.06858378
+    },
+    {
+        "text": "And I think the Republicans owe it to themselves to send a clear message to their state parties and to the other groups that they work with and are affiliated with that this kind of behavior isn't acceptable.",
+        "toxicity_score": 0.124686316,
+        "insult_score": 0.10730196,
+        "profanity_score": 0.049066596
+    },
+    {
+        "text": "Q: Just to follow up on that, Joe, there are some Democratic ads that suggest that voting for Republicans is the equivalent of voting for cross burnings and other racist tactics.",
+        "toxicity_score": 0.46589994,
+        "insult_score": 0.45269802,
+        "profanity_score": 0.30982283
+    },
+    {
+        "text": "And normally the falloff is bigger than it is for hardcore Republican voters, who tend to be older, a little better off, have a little more free time, and more likely to vote.",
+        "toxicity_score": 0.1480265,
+        "insult_score": 0.14509463,
+        "profanity_score": 0.07470294
+    },
+    {
+        "text": "And of course, the so-called Christian Coalition, the very conservative right wing of the Republican Party, they always vote.",
+        "toxicity_score": 0.11213771,
+        "insult_score": 0.094789386,
+        "profanity_score": 0.031952355
+    },
+    {
+        "text": "The Republicans are adamantly opposed to the National Academy of Sciences' recommendations.",
+        "toxicity_score": 0.18305652,
+        "insult_score": 0.13804142,
+        "profanity_score": 0.067862526
+    },
+    {
+        "text": "Do you think the Republicans are counting on African-Americans not to come out tomorrow?",
+        "toxicity_score": 0.22277571,
+        "insult_score": 0.15494551,
+        "profanity_score": 0.076816656
+    },
+    {
+        "text": "Republican Campaign Ads Ms. Wilkes.",
+        "toxicity_score": 0.099570915,
+        "insult_score": 0.091996826,
+        "profanity_score": 0.050133463
+    },
+    {
+        "text": "And the Republican ads, certainly, have been flooding the airwaves.",
+        "toxicity_score": 0.18664975,
+        "insult_score": 0.13386796,
+        "profanity_score": 0.08513366
+    },
+    {
+        "text": "The level of intense, angry partisanship that the Republicans have injected into Washington is really not good for America.",
+        "toxicity_score": 0.2235461,
+        "insult_score": 0.19388464,
+        "profanity_score": 0.08119449
+    },
+    {
+        "text": "And we have fought the Republicans on all these issues.",
+        "toxicity_score": 0.1228748,
+        "insult_score": 0.08012114,
+        "profanity_score": 0.03688594
+    },
+    {
+        "text": "If you look at my record as compared with the record of the Republican Congress, you know what the issues are.",
+        "toxicity_score": 0.11340456,
+        "insult_score": 0.115767226,
+        "profanity_score": 0.055521946
+    },
+    {
+        "text": "The Republicans have fought to delay naturalization and to complicate it.",
+        "toxicity_score": 0.19287479,
+        "insult_score": 0.12420236,
+        "profanity_score": 0.07303288
+    },
+    {
+        "text": "The Republicans have fought for a system that will ensure that millions of Latinos will not be counted in 2000.",
+        "toxicity_score": 0.22441989,
+        "insult_score": 0.16818947,
+        "profanity_score": 0.087342545
+    },
+    {
+        "text": "There is a huge, huge difference in the positions of the Democratic and Republican Parties in the Congress on issues that are vital to Hispanics in America.",
+        "toxicity_score": 0.20062599,
+        "insult_score": 0.20359914,
+        "profanity_score": 0.079436995
+    },
+    {
+        "text": "Republican Campaign Ads/Voter Turnout Q. First of all, I was born in Honduras.",
+        "toxicity_score": 0.086545266,
+        "insult_score": 0.06509476,
+        "profanity_score": 0.033860076
+    },
+    {
+        "text": "The Republicans have been running ads attacking you on the Monica Lewinsky issue.",
+        "toxicity_score": 0.17901862,
+        "insult_score": 0.12409078,
+        "profanity_score": 0.0817322
+    },
+    {
+        "text": "Now, the argument of the Republican ads is you should forget about all that, all those things that are about you, and play our partisan political game here in Washington.",
+        "toxicity_score": 0.11428088,
+        "insult_score": 0.08627414,
+        "profanity_score": 0.047365274
+    },
+    {
+        "text": "And that's basically been what the Republicans are saying.",
+        "toxicity_score": 0.2070012,
+        "insult_score": 0.19061455,
+        "profanity_score": 0.09043509
+    },
+    {
+        "text": "I also think that's an important issue that all the voters should consider in this election, because it would be hard to find an issue on which the parties have differed more than the Democrats and the Republicans on the issue of immigration for the last 4 years.",
+        "toxicity_score": 0.07366174,
+        "insult_score": 0.07257189,
+        "profanity_score": 0.039527636
+    },
+    {
+        "text": "The Republican committees—the Senate committee, the House committee, and the national committee raised over $100 million more than their Democratic counterparts in these last 2 years.",
+        "toxicity_score": 0.04647562,
+        "insult_score": 0.0686862,
+        "profanity_score": 0.031451993
+    },
+    {
+        "text": "You mentioned just a moment ago that this may be the election where the imbalance has been greatest with regard to fundraising in your lifetime, Republican and Democrat, that you've been involved in.",
+        "toxicity_score": 0.14394036,
+        "insult_score": 0.21316367,
+        "profanity_score": 0.07756121
+    },
+    {
+        "text": "We got a downpayment on our 100,000 teachers; we got programs for hundreds of thousands of kids after school; we fended off a Republican attempt to raid the surplus before we fixed Social Security.",
+        "toxicity_score": 0.18492378,
+        "insult_score": 0.1331071,
+        "profanity_score": 0.080634296
+    },
+    {
+        "text": "I don't know that anyone, Republican or Democrat—even your critics agree that you've been on a roll of late: the budget deal with Congress; the historic peace agreement between Israel and Palestine; I note last Friday the G- 7 nations agreed on your proposal to put money into markets that are jittery at the moment.",
+        "toxicity_score": 0.13322239,
+        "insult_score": 0.11803562,
+        "profanity_score": 0.06699559
+    },
+    {
+        "text": "Number one, as I just suggested, the Starr report has come out with embarrassing, lurid, salacious details, and no mention of Whitewater; we have since had a straight party-line partisan vote in the House to move forward with this impeachment inquiry; thirdly, the Washington Post tells us last week that the Speaker of the House, Mr. Gingrich himself, was behind these personal attack ads against you.",
+        "toxicity_score": 0.17285128,
+        "insult_score": 0.11878959,
+        "profanity_score": 0.07917815
+    },
+    {
+        "text": "I'm just sorry, because I believe that there are people in the Republican Party who are good people, who have honest differences of opinion with me, that I can work with, and we could have these debates and work through to have a good, positive result.",
+        "toxicity_score": 0.05170295,
+        "insult_score": 0.04526357,
+        "profanity_score": 0.021884896
+    },
+    {
+        "text": "Then there are some African-Americans who say that I'm not conservative enough because they favor—and they say they favor the Republicans on business grounds.",
+        "toxicity_score": 0.36624962,
+        "insult_score": 0.30899146,
+        "profanity_score": 0.12709004
+    },
+    {
+        "text": "But as long as the Republicans follow the policies they're following, and if Democrats will follow the policies I've followed, I think that African-Americans are simply making the right decision based on what's right for their families and children.",
+        "toxicity_score": 0.13110471,
+        "insult_score": 0.13788195,
+        "profanity_score": 0.0681485
+    },
+    {
+        "text": "The truth is, I think you could make a compelling case that a lot of the non-African-Americans who vote for the Republicans are doing the irrational thing.",
+        "toxicity_score": 0.4411184,
+        "insult_score": 0.43413204,
+        "profanity_score": 0.21421084
+    },
+    {
+        "text": "And I think everyone within the sound of my voice understands that I and the Democrats have been fighting for this, that the Republicans have opposed us on these matters.",
+        "toxicity_score": 0.15415083,
+        "insult_score": 0.108105734,
+        "profanity_score": 0.079433225
+    },
+    {
+        "text": "And if you look ahead, basically if you want smaller classes, more teachers, and modern schools, and you want the National Government to help, then you only have one choice, because the Democrats and I are for it; the Republicans are opposed to our initiative.",
+        "toxicity_score": 0.17911085,
+        "insult_score": 0.19454396,
+        "profanity_score": 0.082265675
+    },
+    {
+        "text": "We had Republicans and Democrats on it.",
+        "toxicity_score": 0.08515258,
+        "insult_score": 0.081283234,
+        "profanity_score": 0.042742684
+    },
+    {
+        "text": "The Republican leadership in Congress delayed it all year long.",
+        "toxicity_score": 0.08412277,
+        "insult_score": 0.082674995,
+        "profanity_score": 0.03354962
+    },
+    {
+        "text": "And to be fair, I want to make full disclosure on this eve of the election, we had a handful, a bare handful, but we did have a handful of Republicans who were willing to support it.",
+        "toxicity_score": 0.15019791,
+        "insult_score": 0.12186422,
+        "profanity_score": 0.09001046
+    },
+    {
+        "text": "No, I think a high voter turnout would represent that the Democrats and the Republicans offered voters a clear choice between two different philosophies of how we should move this country forward.",
+        "toxicity_score": 0.06119807,
+        "insult_score": 0.048556607,
+        "profanity_score": 0.020859445
+    },
+    {
+        "text": "But the President has been very clear that there are important choices, there are important pieces of unfinished business on the agenda and it's important for people to get out and make a choice between the way the Democrats have framed the issues and the positions the Democrats have taken, and the positions the Republicans have taken.",
+        "toxicity_score": 0.06201204,
+        "insult_score": 0.07771617,
+        "profanity_score": 0.031896215
+    },
+    {
+        "text": "I think he has done a fine job of articulating the agenda and the issues, especially where we differ from the Republican Party, and now it's up to the voters.",
+        "toxicity_score": 0.06746025,
+        "insult_score": 0.076463364,
+        "profanity_score": 0.034071628
+    },
+    {
+        "text": "If you look at the history of Democratic Presidents, Republican Presidents, six years into their term you find that they have a history of poor results.",
+        "toxicity_score": 0.09230626,
+        "insult_score": 0.09352791,
+        "profanity_score": 0.020342732
+    },
+    {
+        "text": "I think you couple that with an election cycle where Republicans are significantly outspending Democrats around the country -- from the party committees alone, something like $110 million -- and that makes the context a difficult one.",
+        "toxicity_score": 0.18994252,
+        "insult_score": 0.22773664,
+        "profanity_score": 0.104466826
+    },
+    {
+        "text": "And the Republicans have been able to take advantage, given their position and opposition to these three initiatives in particular.",
+        "toxicity_score": 0.10418188,
+        "insult_score": 0.09952452,
+        "profanity_score": 0.042612337
+    },
+    {
+        "text": "Q: When the President says today that he is not going to have anything more to say about impeachment, it's really in the hands of the Republicans on the Hill,",
+        "toxicity_score": 0.18578075,
+        "insult_score": 0.14562838,
+        "profanity_score": 0.08915711
+    },
+    {
+        "text": "And I think he felt positively that he will be able to work over the coming months with both Democrats and Republicans and Congress.",
+        "toxicity_score": 0.055418335,
+        "insult_score": 0.039480463,
+        "profanity_score": 0.019427588
+    },
+    {
+        "text": "Q: Why does the President think he'll be able to work with Republicans when he basically accuses them of being partisan every single chance he gets?",
+        "toxicity_score": 0.19187339,
+        "insult_score": 0.12473349,
+        "profanity_score": 0.071496904
+    },
+    {
+        "text": "But on the minority question, when the President said there would be efforts by Republicans to keep African American and other minority voters from voting in six or seven states, what did you find in terms of voter intimidation?",
+        "toxicity_score": 0.10595802,
+        "insult_score": 0.08501102,
+        "profanity_score": 0.050341196
+    },
+    {
+        "text": "And I went to a polling site or had someone bring me a poster from a polling site in a congressional campaign I went to where they had off-duty policemen holding signs saying, call this number if you know of voter fraud -- and the number was to the Republican National Committee.",
+        "toxicity_score": 0.24573041,
+        "insult_score": 0.24977322,
+        "profanity_score": 0.16180904
+    },
+    {
+        "text": "The President came pretty close to saying this, and a lot of Democrats basically accuse the Republicans of trying to destroy Social Security, not just on the question of the surplus.",
+        "toxicity_score": 0.20220059,
+        "insult_score": 0.16833428,
+        "profanity_score": 0.09078998
+    },
+    {
+        "text": "What is your view at this point about what the Republican outlook is on Social Security?",
+        "toxicity_score": 0.03164217,
+        "insult_score": 0.02325104,
+        "profanity_score": 0.01429086
+    },
+    {
+        "text": "Does the White House believe Republicans are trying to destroy the system?",
+        "toxicity_score": 0.3901798,
+        "insult_score": 0.288246,
+        "profanity_score": 0.16232741
+    },
+    {
+        "text": "And we'll be moving more now to try to put together, whether it be principles or some legislative package, that we believe the Democrats and Republicans can support.",
+        "toxicity_score": 0.049359858,
+        "insult_score": 0.046357628,
+        "profanity_score": 0.027725143
+    },
+    {
+        "text": "Q: Do you think Republicans are trying to destroy the system?",
+        "toxicity_score": 0.43140322,
+        "insult_score": 0.32604983,
+        "profanity_score": 0.20073856
+    },
+    {
+        "text": "Q: So you think you can work with Republicans then?",
+        "toxicity_score": 0.23295592,
+        "insult_score": 0.15898967,
+        "profanity_score": 0.07855083
+    },
+    {
+        "text": "But if you listened to some Republicans today, there is now some discussion about doing Social Security first, which is a move in the right direction, and we are hopeful at this point that we can do this in a bipartisan way.",
+        "toxicity_score": 0.04952243,
+        "insult_score": 0.05026704,
+        "profanity_score": 0.02586911
+    },
+    {
+        "text": "Joe, there's already been some talk about a leadership struggle among Republicans over the election.",
+        "toxicity_score": 0.07108791,
+        "insult_score": 0.06794018,
+        "profanity_score": 0.035979077
+    },
+    {
+        "text": "Q. Mr. President, the Republicans have made no secret of the fact they intend to look at these elections and draw a lesson in terms of how they conduct an impeachment inquiry.",
+        "toxicity_score": 0.1958423,
+        "insult_score": 0.15676753,
+        "profanity_score": 0.091424264
+    },
+    {
+        "text": "But if he denies the facts, the Republicans might be forced to call more witnesses and prolong the hearings.",
+        "toxicity_score": 0.2781789,
+        "insult_score": 0.22408818,
+        "profanity_score": 0.107184514
+    },
+    {
+        "text": "But it's not a session, as the Republican majority has so defined, that looks at the standards by which they'll judge these allegations.",
+        "toxicity_score": 0.0887972,
+        "insult_score": 0.07474744,
+        "profanity_score": 0.04737418
+    },
+    {
+        "text": "The decisions on these matters right now are being made exclusively by the Republican majority in the House.",
+        "toxicity_score": 0.05114197,
+        "insult_score": 0.037685487,
+        "profanity_score": 0.016007828
+    },
+    {
+        "text": "Should the Republicans curtail the hearings in response to the vote?",
+        "toxicity_score": 0.122666255,
+        "insult_score": 0.099126555,
+        "profanity_score": 0.052881252
+    },
+    {
+        "text": "LOCKHART: I think since the Republican majority sets the table, and they have set the table now with a very quick and perhaps one-witness testimony, you'll have to make your judgments based on what Chairman Hyde has said.",
+        "toxicity_score": 0.05694339,
+        "insult_score": 0.041427083,
+        "profanity_score": 0.01965584
+    },
+    {
+        "text": "Indeed, a cosponsor of the Patients' Bill of Rights in the House is Congressman Greg Ganske from Iowa, a Republican physician who has spoken very eloquently about the need for this legislation.",
+        "toxicity_score": 0.089320704,
+        "insult_score": 0.1240164,
+        "profanity_score": 0.08435852
+    },
+    {
+        "text": "Newt Gingrich has been a worthy adversary, leading the Republican Party to a majority in the House, and joining me in a great national debate over how best to prepare America for the 21st century.",
+        "toxicity_score": 0.116524644,
+        "insult_score": 0.1944729,
+        "profanity_score": 0.08235802
+    },
+    {
+        "text": "Now, up here in northwest Arkansas, from my point of view, she's got the best of all worlds; she's a Democrat with a Republican last name.",
+        "toxicity_score": 0.073578075,
+        "insult_score": 0.080672175,
+        "profanity_score": 0.035260905
+    },
+    {
+        "text": "Joe, what effect do you think this shake-up in the Republican leadership will have on impeachment process?",
+        "toxicity_score": 0.14379065,
+        "insult_score": 0.11260076,
+        "profanity_score": 0.054581065
+    },
+    {
+        "text": "It's just literally impossible to determine whether this will embolden Republicans to seek a quick resolution or embolden some Republicans to try to drive forward, stretch this out and try to pursue this for more partisan advantage.",
+        "toxicity_score": 0.119390674,
+        "insult_score": 0.087700635,
+        "profanity_score": 0.047873203
+    },
+    {
+        "text": "LOCKHART: I think that what would be appropriate for me is to allow the Republicans to work through their leadership issues.",
+        "toxicity_score": 0.117808744,
+        "insult_score": 0.116909795,
+        "profanity_score": 0.07076894
+    },
+    {
+        "text": "But I think rather than try to handicap or talk about who we can work with and who we can't, we'll allow them to work through their process -- except to say, which should be the quite obvious, whoever the Republicans elect as Speaker we'll work with.",
+        "toxicity_score": 0.18938552,
+        "insult_score": 0.22395876,
+        "profanity_score": 0.08241091
+    },
+    {
+        "text": "I mean, in terms of the political calculation, on background, a lot of people around the White House for many months now have said, thank God for Newt Gingrich, the President is lucky in his enemies.",
+        "toxicity_score": 0.08976015,
+        "insult_score": 0.08525604,
+        "profanity_score": 0.055329807
+    },
+    {
+        "text": "It's hard to divine what it will be like in the House without Newt Gingrich, or post-Newt Gingrich.",
+        "toxicity_score": 0.19566602,
+        "insult_score": 0.17879307,
+        "profanity_score": 0.15908387
+    },
+    {
+        "text": "To the extent that some take the message that Mr. Gingrich had to go because he was too moderate or too conciliatory to the Democrats and the President, that could lead to a much worse environment.",
+        "toxicity_score": 0.1717791,
+        "insult_score": 0.16400866,
+        "profanity_score": 0.08329335
+    },
+    {
+        "text": "Q: Has the President spoken to Newt Gingrich yet?",
+        "toxicity_score": 0.118624866,
+        "insult_score": 0.102246225,
+        "profanity_score": 0.06314305
+    },
+    {
+        "text": "Joe, since the four congressional districts with the largest number of Clinton appointees and employees, whose representatives Morella, Moran, Wolf, and Davis, all voted for the impeachment inquiry, and they were reelected by margins of 60-83 percent, my question is, if, as the White House seems to suggest, the American people want to put possible presidential perjuries behind us, why do you believe these four were reelected so overwhelmingly, along with a Republican House and Judiciary Committee majority?",
+        "toxicity_score": 0.10554292,
+        "insult_score": 0.113570824,
+        "profanity_score": 0.08584824
+    },
+    {
+        "text": "Well, why is it any more partisan for the Republicans to have talking points about Starr than it is for Congress to be investigating him?",
+        "toxicity_score": 0.16075532,
+        "insult_score": 0.12370227,
+        "profanity_score": 0.08064618
+    },
+    {
+        "text": "Q: Do you know if the President watched or read about yesterday's impeachment hearing, and specifically, some of the statements by the Republicans signaling a strong desire to move forward with this, despite the election?",
+        "toxicity_score": 0.12281008,
+        "insult_score": 0.12878712,
+        "profanity_score": 0.080711305
+    },
+    {
+        "text": "Q: Do you remember any attempt by Republicans on the Judiciary Committee in 1974 to investigate Leon Jaworski?",
+        "toxicity_score": 0.1041792,
+        "insult_score": 0.10144935,
+        "profanity_score": 0.08229683
+    },
+    {
+        "text": "Q: Joe, earlier today you said the President would talk to Newt Gingrich to say his good-byes",
+        "toxicity_score": 0.1489216,
+        "insult_score": 0.22508115,
+        "profanity_score": 0.13938487
+    },
+    {
+        "text": "Has he spoken to Newt Gingrich, for example?",
+        "toxicity_score": 0.03026819,
+        "insult_score": 0.022111878,
+        "profanity_score": 0.010105429
+    },
+    {
+        "text": "So we believe that if you look at this scholarship amount with the other things that have been passed in the last couple of years, as Peter King said, with overwhelming bipartisan support, Democrats and Republicans working together on these issues, we will be able to protect the families and the children in their education and, in so doing, to honor the families and the law enforcement officers.",
+        "toxicity_score": 0.040690508,
+        "insult_score": 0.04079754,
+        "profanity_score": 0.019744392
+    },
+    {
+        "text": ", we don't know if it speaks for the Chairman of the committee, for the Republicans on the committee.",
+        "toxicity_score": 0.09182376,
+        "insult_score": 0.08165572,
+        "profanity_score": 0.04511837
+    },
+    {
+        "text": "And all of you know, I'm sure, about all the fights we have in America between the Democratic Party and the Republican Party, and you see all that in the press here.",
+        "toxicity_score": 0.22681154,
+        "insult_score": 0.24160613,
+        "profanity_score": 0.14463265
+    },
+    {
+        "text": "Well, I think that there are a number of questions that the Republicans decided they wanted to ask -- 81 specific questions takes some time to work through.",
+        "toxicity_score": 0.1262844,
+        "insult_score": 0.12748075,
+        "profanity_score": 0.08912653
+    },
+    {
+        "text": "Q: What do you think about the resignation of Sam Dash and a couple of Republican moderates saying today that they don't think there is enough votes for impeachment?",
+        "toxicity_score": 0.12946102,
+        "insult_score": 0.10039706,
+        "profanity_score": 0.0531439
+    },
+    {
+        "text": "The people who have seen some of this evidence on the Hill -- not just Republicans -- basically agree with that assessment.",
+        "toxicity_score": 0.102857806,
+        "insult_score": 0.09732231,
+        "profanity_score": 0.037785817
+    },
+    {
+        "text": "Q: As you know, there are a lot of Republicans who say that this is unconstitutional or extra-constitutional and that the only way any sort of effort like that can go forward, other than just a statement of disapproval, is for the President to actually agree to it.",
+        "toxicity_score": 0.14745645,
+        "insult_score": 0.12647389,
+        "profanity_score": 0.07901001
+    },
+    {
+        "text": "Have they agreed to participate, have the Republicans agreed to participate in the conference?",
+        "toxicity_score": 0.092179455,
+        "insult_score": 0.0710772,
+        "profanity_score": 0.029085621
+    },
+    {
+        "text": "So it's obviously up to the Republican majority in the committee to decide how they're going to pursue this and how they're going to do their business.",
+        "toxicity_score": 0.065268,
+        "insult_score": 0.053190663,
+        "profanity_score": 0.020104788
+    },
+    {
+        "text": "But I think, when you look at the last 24 hours, you'll understand why the public has so little confidence in this process, and why there's so little support for the direction the Republicans are taking this process in.",
+        "toxicity_score": 0.15739216,
+        "insult_score": 0.17307445,
+        "profanity_score": 0.08982394
+    },
+    {
+        "text": "If you said, it's a bad rerun, it's something nobody wanted to run in the first place -- if by that you mean, look, Republicans are bringing up something nobody cares about anyway, you all should be happy.",
+        "toxicity_score": 0.30917537,
+        "insult_score": 0.3211565,
+        "profanity_score": 0.10434853
+    },
+    {
+        "text": "You should think, well, look, Republicans are bringing this up, everybody is going to think it's silly.",
+        "toxicity_score": 0.6220954,
+        "insult_score": 0.7641975,
+        "profanity_score": 0.4847962
+    },
+    {
+        "text": "Q: You said this morning that you feel that the extreme members of the Republican Party have taken over the House Judiciary Committee.",
+        "toxicity_score": 0.20902789,
+        "insult_score": 0.22127844,
+        "profanity_score": 0.11495358
+    },
+    {
+        "text": "I mean, people like Congressman Barr, and others that I think are on the right fringes of the Republican Party -- I mean, you've got to remember something.",
+        "toxicity_score": 0.17241462,
+        "insult_score": 0.17577383,
+        "profanity_score": 0.078191385
+    },
+    {
+        "text": "So this is someone who has made his name here in Washington on the issue of impeachment -- not based on the merits, just on the fact that he thinks it's politically in the best interests of the Republican Party to pursue.",
+        "toxicity_score": 0.11385432,
+        "insult_score": 0.111143716,
+        "profanity_score": 0.0668214
+    },
+    {
+        "text": "I think Republicans on the committee have spoken out.",
+        "toxicity_score": 0.12046996,
+        "insult_score": 0.08490681,
+        "profanity_score": 0.046952765
+    },
+    {
+        "text": "I think probably the vast majority of other Republicans have kept their own counsel, so I think it's impossible to know.",
+        "toxicity_score": 0.134225,
+        "insult_score": 0.13455363,
+        "profanity_score": 0.07752731
+    },
+    {
+        "text": "The Republicans have their own choice.",
+        "toxicity_score": 0.11958165,
+        "insult_score": 0.09266125,
+        "profanity_score": 0.034326766
+    },
+    {
+        "text": "I want to tell you also that it may be true, as Steve said—and as many of our friends in the Republican Party have said since the election in which they outspent us by more than $100 million—it may be true that money is trumped by message.",
+        "toxicity_score": 0.10616461,
+        "insult_score": 0.09850043,
+        "profanity_score": 0.04639814
+    },
+    {
+        "text": "And so I say to you, we have a responsibility to lead and to try in good faith to work with the Republicans to save Social Security for the 21st century; to give every child in this country an excellent, world-class education; to deal with the challenges of the health care system, including the Patients' Bill of Rights; to do whatever it takes to maintain our leadership for peace and freedom around the world; and to stabilize the global financial system so that we can continue to have long-term prosperity and opportunity here at home and for our friends and neighbors in other countries.",
+        "toxicity_score": 0.069848746,
+        "insult_score": 0.08347713,
+        "profanity_score": 0.0440241
+    },
+    {
+        "text": "Well, how do you feel about Judge Norma Holloway Johnson's decision to allow the Democratic and Republican staff members to see a copy of the unredacted memo?",
+        "toxicity_score": 0.072354406,
+        "insult_score": 0.069821626,
+        "profanity_score": 0.032612965
+    },
+    {
+        "text": "The Republicans spent the year of 1997 with this as agenda, putting forward, first and foremost, investigating the President.",
+        "toxicity_score": 0.13702488,
+        "insult_score": 0.105280824,
+        "profanity_score": 0.0555479
+    },
+    {
+        "text": "Well, which is -- in the past, you would complain about how Gingrich was kind of operating Henry Hyde like a puppet on a string, and that he was actually exercising -- MR.",
+        "toxicity_score": 0.36943185,
+        "insult_score": 0.49479577,
+        "profanity_score": 0.2619794
+    },
+    {
+        "text": "But are you saying you want Gingrich to exert leadership now?",
+        "toxicity_score": 0.116719,
+        "insult_score": 0.10184849,
+        "profanity_score": 0.099833846
+    },
+    {
+        "text": "Joe, if it does slip into the next Congress, wouldn't that be good for the President, since the Republican majority in the House is smaller in the next Congress than in the current Congress?",
+        "toxicity_score": 0.1441796,
+        "insult_score": 0.21020426,
+        "profanity_score": 0.11516909
+    },
+    {
+        "text": ": I think clearly we have demonstrated that, despite what some in the Republican Party want to focus on, we have the ability to focus on the people's business.",
+        "toxicity_score": 0.1345768,
+        "insult_score": 0.1492651,
+        "profanity_score": 0.073512115
+    },
+    {
+        "text": "We welcome Republican support on reforming Social Security, getting a patients' bill of rights, improving public education, campaign finance, raising the minimum wage.",
+        "toxicity_score": 0.03941493,
+        "insult_score": 0.036473073,
+        "profanity_score": 0.02324002
+    },
+    {
+        "text": "They have to make choices about what the Republican Party's about, what the Republican Party wants to project to the public.",
+        "toxicity_score": 0.17378782,
+        "insult_score": 0.215451,
+        "profanity_score": 0.10616698
+    },
+    {
+        "text": "Joe, if you and the Democrats think that this scandal isn't playing well with the public, why not just let the Republicans continue to take the heat and let them extend it?",
+        "toxicity_score": 0.11298539,
+        "insult_score": 0.099596724,
+        "profanity_score": 0.03744724
+    },
+    {
+        "text": "I think if you use that argument, especially in this last cycle, there was a lot more spending from the Republicans using issue advertisement than there was from the Democrats.",
+        "toxicity_score": 0.12951279,
+        "insult_score": 0.11765286,
+        "profanity_score": 0.08962027
+    },
+    {
+        "text": "We saw this year Democrats and Republicans at these forums exchanging ideas.",
+        "toxicity_score": 0.11771269,
+        "insult_score": 0.10128104,
+        "profanity_score": 0.05094281
+    },
+    {
+        "text": "The forum -- the conference will provide a unique opportunity to bring together Democrats and Republicans prior to the beginning of the major legislative action in a context which there will be some open forums that are open to the public, but also by creating a context in which Democrats and Republicans from both the House and Senate can spend time together in a confidential, closed-door session and talk to each other and have the benefits of a well-balanced group of experts helping to facilitate the discussion.",
+        "toxicity_score": 0.039293744,
+        "insult_score": 0.04771383,
+        "profanity_score": 0.019653961
+    },
+    {
+        "text": "I think what it would be like is you would have perhaps a Democrat from the House and a Democrat from the Senate, a Republican from the House and Senate, one or two members from the administration, and then you would have perhaps in each one 40 or 50 people, and then they would facilitate a discussion.",
+        "toxicity_score": 0.11598708,
+        "insult_score": 0.123813786,
+        "profanity_score": 0.045029078
+    },
+    {
+        "text": "And the goal of this is to start off the Social Security reform process by providing, we think, a unique opportunity, which is creating an opportunity where Democrats and Republicans from different chambers who may rarely have a chance to talk with each other, an opportunity for them to talk in an off-the-record way with what we think are a few of the very top experts who have been most engaged in the Social Security issue.",
+        "toxicity_score": 0.039929457,
+        "insult_score": 0.031529326,
+        "profanity_score": 0.013434212
+    },
+    {
+        "text": "On the issues relating to the different investment and pre-financing options, the two experts will be Robert Reischauer of Brookings and former CBO director, and Martin Feldstein of Harvard University, who has been working closely with several of the Republican members on their particular plans.",
+        "toxicity_score": 0.006873367,
+        "insult_score": 0.032625854,
+        "profanity_score": 0.018065767
+    },
+    {
+        "text": "When we were doing the forums, I thought some of the most important things were when the Democrats and the Republican members flew together, came together.",
+        "toxicity_score": 0.1123624,
+        "insult_score": 0.10684383,
+        "profanity_score": 0.06413741
+    },
+    {
+        "text": "And I think that that made us believe that, while what's going to clearly happen, and what should happen, is clearly Democrats are going to caucus among themselves and Republicans are going to caucus among themselves.",
+        "toxicity_score": 0.10644862,
+        "insult_score": 0.10110785,
+        "profanity_score": 0.032588854
+    },
+    {
+        "text": "but I think you need to know that we have had conversations with Republicans who have come to our forums -- Congressman Kolbe, who has taken a very active role; Senator Santorum, Senator Gray, Senator Domenici --",
+        "toxicity_score": 0.13457222,
+        "insult_score": 0.13311315,
+        "profanity_score": 0.08003848
+    },
+    {
+        "text": "there have been many Republicans who have been -- who have shared their ideas with us, who have come to the forums, who have made clear that they are serious about wanting to engage in Social Security.",
+        "toxicity_score": 0.10567161,
+        "insult_score": 0.08760788,
+        "profanity_score": 0.04204539
+    },
+    {
+        "text": "What happened, really, was that we thought that it would be a positive thing to see if we could create a forum for Democrats and Republicans to get to know each other on this issue and to talk with each other.",
+        "toxicity_score": 0.07706168,
+        "insult_score": 0.0822358,
+        "profanity_score": 0.045406852
+    },
+    {
+        "text": "Congressman Gephardt said earlier this morning -- and, obviously, in a different context, talking about impeachment: talked again about the mistrust that exists now between Republicans and Democrats; talked about Republicans laughing at him when he spoke on the House floor about limiting the inquiry; talked about the degree of clarity that exists right now.",
+        "toxicity_score": 0.11889551,
+        "insult_score": 0.09802136,
+        "profanity_score": 0.046439245
+    },
+    {
+        "text": "I've had discussions with both Democrats and Republicans throughout the whole summer, hearing their ideas.",
+        "toxicity_score": 0.115723684,
+        "insult_score": 0.09612546,
+        "profanity_score": 0.052714337
+    },
+    {
+        "text": "You raise a good point that while we talk about Democrats and Republicans, there are significant differing views within the Democratic Party and on the Republican side.",
+        "toxicity_score": 0.03919798,
+        "insult_score": 0.0399014,
+        "profanity_score": 0.019099688
+    },
+    {
+        "text": "On the other hand, we've also made clear that this has to be bipartisan and that we also will always be open to discussion and consultation with the key Republicans in both the House and Senate, as we have been for this year.",
+        "toxicity_score": 0.06706794,
+        "insult_score": 0.07370605,
+        "profanity_score": 0.03722318
+    },
+    {
+        "text": "The first one is really going over the budget and fiscal issues, and so you have two people who have expertise in that area -- Marilyn Moon, who has been an expert in both Medicare and Social Security and is a trustee, and Rudy Penner, who is very well respected, was Republican Congressional Budget Office Director.",
+        "toxicity_score": 0.058845997,
+        "insult_score": 0.07002315,
+        "profanity_score": 0.04009358
+    },
+    {
+        "text": "With Senator Daschle and his colleagues leading the way, we will make this not a Democratic issue or a Republican issue but an American issue.",
+        "toxicity_score": 0.267006,
+        "insult_score": 0.26636368,
+        "profanity_score": 0.16173407
+    },
+    {
+        "text": "When Republican Governors stand in front of banners that say \"opportunity\" and \"responsibility,\" when they talk of community, it may not be the sincerest form of flattery, but it's flattery nonetheless.",
+        "toxicity_score": 0.16751711,
+        "insult_score": 0.18446067,
+        "profanity_score": 0.084293894
+    },
+    {
+        "text": "What is the response to -- the folks on the Hill, Republicans and Democrats, who feel like that has hardened the -- MR. LOCKHART:",
+        "toxicity_score": 0.14531462,
+        "insult_score": 0.17222594,
+        "profanity_score": 0.10212338
+    },
+    {
+        "text": "I think it does indicate that some of the claims that this is a vote of conscience and that there is no vote counting and no whip counting on the Republican side are somewhat hollow.",
+        "toxicity_score": 0.2400569,
+        "insult_score": 0.24363731,
+        "profanity_score": 0.13534178
+    },
+    {
+        "text": "You'll find that the leadership operation to the extent that Mr. DeLay is running this portion of it, has, from what we've heard, been quite aggressive about making this a Republican Party vote and sending a message.",
+        "toxicity_score": 0.072598085,
+        "insult_score": 0.054234594,
+        "profanity_score": 0.025100315
+    },
+    {
+        "text": "This is, as Republican Congressman Wamp said, short of war the most important thing members of Congress will ever do.",
+        "toxicity_score": 0.24653308,
+        "insult_score": 0.25002408,
+        "profanity_score": 0.15132475
+    },
+    {
+        "text": "Q: Joe, is the White House personally lobbying members of the Democratic Party -- or the Republican Party -- but Democrats on their vote?",
+        "toxicity_score": 0.123168714,
+        "insult_score": 0.120563075,
+        "profanity_score": 0.06421535
+    },
+    {
+        "text": "People in this building talk to Democrats, Republicans all the time.",
+        "toxicity_score": 0.053308003,
+        "insult_score": 0.034396905,
+        "profanity_score": 0.01948107
+    },
+    {
+        "text": "That's a question that's more appropriate for Republican members up there.",
+        "toxicity_score": 0.10238756,
+        "insult_score": 0.08444615,
+        "profanity_score": 0.03720861
+    },
+    {
+        "text": "Joe, if the House leadership announces formally, before a vote by the full House on impeachment that it will not allow a measure of censure to come to the floor, do you think that would hurt the President in pushing moderate Republicans and some Democrats to vote for impeachment because that's the only thing they will be able to vote on?",
+        "toxicity_score": 0.154362,
+        "insult_score": 0.2038863,
+        "profanity_score": 0.088708155
+    },
+    {
+        "text": "Because we don't believe that even the case that the independent counsel and some members of the Republicans who have embraced it rises to the level of impeachment.",
+        "toxicity_score": 0.12642485,
+        "insult_score": 0.10880946,
+        "profanity_score": 0.052171644
+    },
+    {
+        "text": "David, let me just tell you that the Republicans called a series of witnesses last week who all to a person said the President shouldn't be impeached.",
+        "toxicity_score": 0.1164882,
+        "insult_score": 0.08492904,
+        "profanity_score": 0.045000043
+    },
+    {
+        "text": "But you have a number of people who are moderate Democrats, moderate Republicans -- Democrats, who are saying they need to see some sort of sense that there is contrition here",
+        "toxicity_score": 0.11871912,
+        "insult_score": 0.11563564,
+        "profanity_score": 0.039484184
+    },
+    {
+        "text": "He certainly can if enough Republicans vote to make the decision that he should be removed from office.",
+        "toxicity_score": 0.46589994,
+        "insult_score": 0.4263956,
+        "profanity_score": 0.20143925
+    },
+    {
+        "text": "Q: Republican leaders have said that this is a vote of conscience for their members.",
+        "toxicity_score": 0.16172984,
+        "insult_score": 0.16538166,
+        "profanity_score": 0.08832156
+    },
+    {
+        "text": "LOCKHART: I think there is anecdotal information that pressure is being put on Republicans that this is an issue of party discipline rather than conscience.",
+        "toxicity_score": 0.14556986,
+        "insult_score": 0.13325818,
+        "profanity_score": 0.086800136
+    },
+    {
+        "text": "And I think you can just read the paper to see the quotes of senior Republicans without names.",
+        "toxicity_score": 0.23495233,
+        "insult_score": 0.22396894,
+        "profanity_score": 0.10272167
+    },
+    {
+        "text": "And the leadership -- I don't think they're trying to put any pressure on any members to influence the way they vote, but I don't think it's a clear-cut case that that same tone is being followed within the Republican leadership.",
+        "toxicity_score": 0.09586167,
+        "insult_score": 0.1000689,
+        "profanity_score": 0.043909147
+    },
+    {
+        "text": "Q: Are the Republicans going to the ball tonight?",
+        "toxicity_score": 0.3891493,
+        "insult_score": 0.42075422,
+        "profanity_score": 0.331417
+    },
+    {
+        "text": "This is the people's house, it's not a Democratic White House or Republican White House.",
+        "toxicity_score": 0.32121938,
+        "insult_score": 0.31439638,
+        "profanity_score": 0.16208053
+    },
+    {
+        "text": "And I certainly hope that Republicans feel welcome to attend the ball.",
+        "toxicity_score": 0.36722815,
+        "insult_score": 0.30108222,
+        "profanity_score": 0.2243173
+    },
+    {
+        "text": "What we want to do is take a serious attempt to look at the issues -- which we'll do over the next two days -- and then work very closely with Democrats and Republicans on Capitol Hill in order to forge a bipartisan consensus around many of the ideas that are out there, to forge a solution for a long-term fix.",
+        "toxicity_score": 0.067028806,
+        "insult_score": 0.06166611,
+        "profanity_score": 0.024847828
+    },
+    {
+        "text": "Let me say, too, in that regard, I am grateful for the presence here of Senator Santorum and Congressman Shaw from the Republican majority, and the minority leaders, Senator Daschle, and Congressman Gephardt.",
+        "toxicity_score": 0.032299712,
+        "insult_score": 0.032093275,
+        "profanity_score": 0.024467658
+    },
+    {
+        "text": "Q: Do you have any concerns that a vote in the committee might be used as an argument by Republicans to preclude, then, a vote on the full House floor?",
+        "toxicity_score": 0.09968589,
+        "insult_score": 0.09426594,
+        "profanity_score": 0.047907453
+    },
+    {
+        "text": "No, he is a witness and -- let me make a broader point here, which is many of the Republicans have talked today and tried to somehow denigrate some of the witnesses because they've been called by the White House.",
+        "toxicity_score": 0.23079321,
+        "insult_score": 0.21038112,
+        "profanity_score": 0.10844715
+    },
+    {
+        "text": "These are, if you look at that panel today, it was bipartisan and more Republican than Democrat.",
+        "toxicity_score": 0.05038695,
+        "insult_score": 0.050665822,
+        "profanity_score": 0.022480246
+    },
+    {
+        "text": "Still others suggested a series of consultations that would allow the President to work with some of the key committee people, so, as one person said, it would be something the President was pushing, but it would have enough fingerprints from both Democrats and Republicans that nobody could walk away from it.",
+        "toxicity_score": 0.05878141,
+        "insult_score": 0.049563073,
+        "profanity_score": 0.02013801
+    },
+    {
+        "text": "Gene, a number of the Republicans that came, including Mr. Archer, put great stress on this, that the President said he would be willing to put forward a specific plan if that were decided that would be the thing to do.",
+        "toxicity_score": 0.19847885,
+        "insult_score": 0.18884961,
+        "profanity_score": 0.13815397
+    },
+    {
+        "text": "What he said was that he would do -- what the President said and, I think, where there is a lot of agreement between us and Chairman Archer, is that the President is not challenging others to come first or asking, for example, the Republicans to come first with a plan.",
+        "toxicity_score": 0.11655907,
+        "insult_score": 0.11826421,
+        "profanity_score": 0.06539909
+    },
+    {
+        "text": "So you really had a significant number of the Social Security heavyweights from both parties, with the full cooperation of the Republican and Democratic leaders.",
+        "toxicity_score": 0.07082479,
+        "insult_score": 0.06765323,
+        "profanity_score": 0.02790171
+    },
+    {
+        "text": "Q: On a full House vote, since Newt Gingrich is calling for a vote next Thursday, what is your stand now on whether a vote in this lame duck",
+        "toxicity_score": 0.7143426,
+        "insult_score": 0.79753095,
+        "profanity_score": 0.6639055
+    },
+    {
+        "text": "And can you identify any Republicans on the Hill on the House side that you've talked to?",
+        "toxicity_score": 0.08838452,
+        "insult_score": 0.06879682,
+        "profanity_score": 0.027637273
+    },
+    {
+        "text": "May I just add, to follow up, one of the things they're talking about is a tactic on both sides up there, is whether members will be allowed, whether the Republican leadership will make germane the rules so that they can vote on a censure resolution.",
+        "toxicity_score": 0.08444486,
+        "insult_score": 0.07427227,
+        "profanity_score": 0.038610857
+    },
+    {
+        "text": "I mean, if they don't know that, what's the point of having moderate Republicans push for one?",
+        "toxicity_score": 0.17290388,
+        "insult_score": 0.12107219,
+        "profanity_score": 0.08340433
+    },
+    {
+        "text": "Does part of the White House effort include targeting the Republican leadership to make sure that they do allow a censure resolution to come -- MR.",
+        "toxicity_score": 0.22565463,
+        "insult_score": 0.22890845,
+        "profanity_score": 0.133188
+    },
+    {
+        "text": "And then today you have something that the Republicans feel is very important -- the videotape of the President's civil case deposition, which they withheld.",
+        "toxicity_score": 0.19410281,
+        "insult_score": 0.2290415,
+        "profanity_score": 0.12222771
+    },
+    {
+        "text": "Joe, if the White House had successfully made a case and a moderate Republican thought President Clinton's conduct was not impeachable, wouldn't they in good conscience have to vote no, whether or not there was a censure alternative on the floor?",
+        "toxicity_score": 0.32950097,
+        "insult_score": 0.37174463,
+        "profanity_score": 0.1630798
+    },
+    {
+        "text": "Q: Is the President aware that both Republicans and Democrats on the House Judiciary Committee have today called upon the President to say something more?",
+        "toxicity_score": 0.10755278,
+        "insult_score": 0.08919394,
+        "profanity_score": 0.052781954
+    },
+    {
+        "text": "Congressman Lazio was designated by the House Republican leadership.",
+        "toxicity_score": 0.09021001,
+        "insult_score": 0.101201706,
+        "profanity_score": 0.059153777
+    },
+    {
+        "text": "Q: Do you think that Gingrich and Livingston are passing the buck and defaulting their leadership duties?",
+        "toxicity_score": 0.19172698,
+        "insult_score": 0.16368943,
+        "profanity_score": 0.075222336
+    },
+    {
+        "text": "He's a Republican member of Congress.",
+        "toxicity_score": 0.052367818,
+        "insult_score": 0.04181745,
+        "profanity_score": 0.013734141
+    },
+    {
+        "text": "All moderate Republicans except for Mr. Dingell?",
+        "toxicity_score": 0.35369247,
+        "insult_score": 0.3336741,
+        "profanity_score": 0.2456127
+    },
+    {
+        "text": "Q: You've got two undecided Republican members in the House along with you.",
+        "toxicity_score": 0.16255014,
+        "insult_score": 0.116528034,
+        "profanity_score": 0.06375792
+    },
+    {
+        "text": "Q: Some Republicans on the Hill are saying that censure is unconstitutional.",
+        "toxicity_score": 0.19637664,
+        "insult_score": 0.14570226,
+        "profanity_score": 0.08355704
+    },
+    {
+        "text": "Well, there is clearly Democrats on the Hill, and some Republicans on the Hill, who do believe it is appropriate.",
+        "toxicity_score": 0.086169414,
+        "insult_score": 0.08574363,
+        "profanity_score": 0.040477052
+    },
+    {
+        "text": "And if you listen to the leaders, the Republican leaders, they're not arguing that they are keeping it from the floor because it's not constitutional; they are arguing that they are keeping it from the floor because they don't want to give members a choice.",
+        "toxicity_score": 0.11703136,
+        "insult_score": 0.11174997,
+        "profanity_score": 0.06780927
+    },
+    {
+        "text": "Q: Joe, has the President recruited members of his Cabinet to call directly to moderate Republicans on the fence or -- MR.",
+        "toxicity_score": 0.12590824,
+        "insult_score": 0.12406271,
+        "profanity_score": 0.07631184
+    },
+    {
+        "text": "Many of them have said they feel such pressure, but I can't comment on that because I haven't talked directly to many members of the House caucus, the Republican caucus.",
+        "toxicity_score": 0.10547546,
+        "insult_score": 0.08641802,
+        "profanity_score": 0.041729726
+    },
+    {
+        "text": "Perjury/Censure Q. Mr. President, some Republicans want you to go further than a statement of contrition.",
+        "toxicity_score": 0.23380679,
+        "insult_score": 0.14041996,
+        "profanity_score": 0.07978516
+    },
+    {
+        "text": "And what do you think about Chairman Hyde and the Republican leadership opposing a vote in the full House on censure?",
+        "toxicity_score": 0.13741583,
+        "insult_score": 0.123322,
+        "profanity_score": 0.075564176
+    },
+    {
+        "text": "And I think if you look at the law, if you look at the legal decisions, and if you look at what the Republican as well as the Democratic prosecutors said, I think that's entitled to great weight.",
+        "toxicity_score": 0.1313448,
+        "insult_score": 0.15115856,
+        "profanity_score": 0.069167316
+    },
+    {
+        "text": "There is a small group of the Republican leadership who've made it their mission in life to remove the President against, perhaps, the will of the House -- certainly against the will of the American public.",
+        "toxicity_score": 0.11997201,
+        "insult_score": 0.07930109,
+        "profanity_score": 0.042245816
+    },
+    {
+        "text": "To begin the process to, as admittedly, some of the Republican leaders discussed, they don't want to remove the President, they just want to punish him.",
+        "toxicity_score": 0.23122029,
+        "insult_score": 0.1708209,
+        "profanity_score": 0.09422194
+    },
+    {
+        "text": "And by their own statements, many of the Republican leaders have talked about the fact that they know that this is not going to pass in the Senate, that this is all about punishing the President or this is all about damaging the President",
+        "toxicity_score": 0.23841225,
+        "insult_score": 0.19110705,
+        "profanity_score": 0.087456726
+    },
+    {
+        "text": "We are at a turning point here, I think, and we need to face this this week, which is will the parties work together like they have in the past to do very important work -- from balancing the budget to welfare reform to reducing the budget deficit -- or will we now turn on an issue where Republicans in a partisan way will move not in what we believe is in the best interests of the country to try to remove the President and set us off on a negative and downward spiral of partisanship over the next two years.",
+        "toxicity_score": 0.12802526,
+        "insult_score": 0.13368627,
+        "profanity_score": 0.07328226
+    },
+    {
+        "text": "I don't think that Republican members, whether they be moderate, conservative, liberal, tall or short, should feel like if they vote",
+        "toxicity_score": 0.10595276,
+        "insult_score": 0.10181024,
+        "profanity_score": 0.029516539
+    },
+    {
+        "text": "I don't think there should be a Republican Committee Chairman who feels that their future in leadership or chairmanship is at risk.",
+        "toxicity_score": 0.10461494,
+        "insult_score": 0.10101873,
+        "profanity_score": 0.038452737
+    },
+    {
+        "text": "In other words, are the motivations that he thinks he would be in legal jeopardy if he was more specific in his characterization, or that you just believe the Republicans would move the goal posts no matter what he said?",
+        "toxicity_score": 0.11772283,
+        "insult_score": 0.10045199,
+        "profanity_score": 0.052966673
+    },
+    {
+        "text": "Q: One of the things that moderate Republicans are worried about, I think, is that they fear that if they vote against impeachment and then the threat of impeachment is removed from President Clinton, they're worried that he might not be so eager to aggressively listen to censure proposals, especially given his acknowledged trouble with his own credibility.",
+        "toxicity_score": 0.24422936,
+        "insult_score": 0.24603774,
+        "profanity_score": 0.12242241
+    },
+    {
+        "text": "What can you say that will assure those moderate Republicans that he will indeed follow through on censure if they vote against impeachment?",
+        "toxicity_score": 0.122488305,
+        "insult_score": 0.092863046,
+        "profanity_score": 0.042765334
+    },
+    {
+        "text": "LOCKHART: I can tell you that -- my message for moderate Republicans is that they should take that concern to their leadership, they should take that concern to their leadership in numbers that shows that a majority of the will of the House and a majority of the American public say basic fairness demands a choice on the floor of the House so that we won't have this problem that you think that they have.",
+        "toxicity_score": 0.14971864,
+        "insult_score": 0.15173355,
+        "profanity_score": 0.07782402
+    },
+    {
+        "text": "But again, we all come back to something that's not within the President's power, that's within the power of the Republican leadership -- and that's to provide some basic fairness, to basically take a process that has been partisan from the beginning and rescue it by allowing a second vote on the floor, giving members a choice, giving the public",
+        "toxicity_score": 0.110125,
+        "insult_score": 0.078293376,
+        "profanity_score": 0.028822733
+    },
+    {
+        "text": "Do you think it's appropriate for the Republican leadership to call for your resignation while you are over here, overseas?",
+        "toxicity_score": 0.10292597,
+        "insult_score": 0.074207194,
+        "profanity_score": 0.031609293
+    },
+    {
+        "text": "Is the Republican leadership twisting their arms?",
+        "toxicity_score": 0.20114805,
+        "insult_score": 0.1926438,
+        "profanity_score": 0.08692278
+    },
+    {
+        "text": "And I'd say that people in this country recognize that difference and don't believe that the members of the Republican leadership and those who plan to vote for impeachment are taking this issue or this country in the right direction.",
+        "toxicity_score": 0.091931835,
+        "insult_score": 0.09153302,
+        "profanity_score": 0.041434664
+    },
+    {
+        "text": "LOCKHART: I think you should talk to the Republican members about that.",
+        "toxicity_score": 0.13178928,
+        "insult_score": 0.11275533,
+        "profanity_score": 0.08356153
+    },
+    {
+        "text": "Joe, so you're saying the Republican members are not acting out of conscience?",
+        "toxicity_score": 0.1844627,
+        "insult_score": 0.18939704,
+        "profanity_score": 0.07614568
+    },
+    {
+        "text": "Joe, you said earlier that the Republican leadership is basically thwarting the will of the people.",
+        "toxicity_score": 0.21193174,
+        "insult_score": 0.22899327,
+        "profanity_score": 0.08284786
+    },
+    {
+        "text": "Joe, how concerned is the President that the tension and mistrust that has developed between the White House and the Republicans in Congress will effect the decision-making regarding Iraq?",
+        "toxicity_score": 0.2323277,
+        "insult_score": 0.22944619,
+        "profanity_score": 0.111828245
+    },
+    {
+        "text": "Q: What do you say to the Republican critics who are spitting mad about this, they think it's to distract from impeachment.",
+        "toxicity_score": 0.3218535,
+        "insult_score": 0.3309539,
+        "profanity_score": 0.16678618
+    },
+    {
+        "text": "I believe there are other Republicans and Democrats in the Congress that are supportive.",
+        "toxicity_score": 0.02624943,
+        "insult_score": 0.021435892,
+        "profanity_score": 0.015125803
+    },
+    {
+        "text": "Q: And did you get support from the Republican leadership there?",
+        "toxicity_score": 0.104110606,
+        "insult_score": 0.101067916,
+        "profanity_score": 0.05050689
+    },
+    {
+        "text": "I know you don't like it, but nonetheless, you have Republicans talking against this timing issue, but you also have friends -- MR.",
+        "toxicity_score": 0.2115302,
+        "insult_score": 0.21070214,
+        "profanity_score": 0.103952065
+    },
+    {
+        "text": "I suspect by the end of the night you will see some very prominent -- excuse me, if I can finish -- you'll see some very prominent Republicans being supportive.",
+        "toxicity_score": 0.21519649,
+        "insult_score": 0.20371681,
+        "profanity_score": 0.11099004
+    },
+    {
+        "text": "We believe that people should be reminded of that case, of the case that over 900 constitutional scholars said this didn't reach the standard for impeachment; that a bipartisan panel of prosecutors came in and said there was no case here; that a panel that the Republicans put together on perjury, when they finished their testimony, all stood up and said the President shouldn't be impeached.",
+        "toxicity_score": 0.08902294,
+        "insult_score": 0.07700368,
+        "profanity_score": 0.040756326
+    },
+    {
+        "text": "The President has articulated challenges from Social Security to education to child care, and he doesn't believe that he should be side-tracked by a group of Republicans who happen to be in the majority now in Congress who seem to be pursuing a course based not so much on the national interest of this country, but on their own partisan advantage.",
+        "toxicity_score": 0.17784812,
+        "insult_score": 0.18776974,
+        "profanity_score": 0.07946865
+    },
+    {
+        "text": "Unless the Republican leadership has had some change of heart that we don't know of, I don't know if that's going to be put forth.",
+        "toxicity_score": 0.16648518,
+        "insult_score": 0.11745923,
+        "profanity_score": 0.06983925
+    },
+    {
+        "text": "Any reaction of the insistence of the Republicans today in the resolution that they support the troops, but not the Commander in Chief?",
+        "toxicity_score": 0.072195746,
+        "insult_score": 0.065349594,
+        "profanity_score": 0.034397222
+    },
+    {
+        "text": "Q: The Republican leadership in the House said that they will reserve their first House bill, HR 1, the President's Social Security proposal.",
+        "toxicity_score": 0.061872073,
+        "insult_score": 0.0429513,
+        "profanity_score": 0.03064357
+    },
+    {
+        "text": "And we think we, through the Social Security Conference and the outreach we did before that, have built a strong base to move forward, working with Republicans and Democrats on the Hill, to get a long-term solution.",
+        "toxicity_score": 0.017398672,
+        "insult_score": 0.011535212,
+        "profanity_score": 0.0067060706
+    },
+    {
+        "text": "Iraq Q. Mr. President, how are you going to stem the Republican drive to drive you out of office?",
+        "toxicity_score": 0.24514021,
+        "insult_score": 0.14450838,
+        "profanity_score": 0.08893687
+    },
+    {
+        "text": "Q. Mr. President, as you know, Senator Trent Lott and Dick Armey, the House majority leader, and other Republicans are questioning the timing, suggesting that this was simply a diversionary tactic to avoid an impeachment vote on the House floor.",
+        "toxicity_score": 0.43843806,
+        "insult_score": 0.45269802,
+        "profanity_score": 0.48586637
+    },
+    {
+        "text": "And I might add, I'm very gratified by the strong support we've gotten from people among both Democratic and Republican ranks in the Congress who are interested in national security, people like Senator Helms, Senator McCain, Senator Warner, Senator Hagel, Senator Lugar, all have expressed support for this mission.",
+        "toxicity_score": 0.021153955,
+        "insult_score": 0.033191122,
+        "profanity_score": 0.019521125
+    },
+    {
+        "text": "And the Republican leaders will have to decide how to do their job.",
+        "toxicity_score": 0.07299592,
+        "insult_score": 0.068662606,
+        "profanity_score": 0.030704584
+    },
+    {
+        "text": "Congress, which is currently being run by the Republican majority, is also duly empowered to make decisions based on what they believe is in the best interests of our country and our national security.",
+        "toxicity_score": 0.059331104,
+        "insult_score": 0.06418101,
+        "profanity_score": 0.037662614
+    },
+    {
+        "text": "I think if you can go back and remember over the last few months, we have had members of Congress, members of the Republican Party on the Judiciary Committee saying over and over again that they are not trying to remove the President, that all they are is step one.",
+        "toxicity_score": 0.16339675,
+        "insult_score": 0.1864713,
+        "profanity_score": 0.10199372
+    },
+    {
+        "text": "Congressman Pease, a Republican on the Judiciary Committee, has said that \"I believe that there is a parallel between the decision to indict and the decision to impeach\" in this regard, that all they're doing is testing, that it's not really all that significant, it's really just looking at things and seeing for the other body because that's where the real work is done.",
+        "toxicity_score": 0.08074183,
+        "insult_score": 0.099269696,
+        "profanity_score": 0.05295456
+    },
+    {
+        "text": "\" So what you have here is what I believe is a cynical political strategy where the Republican leadership tried to tell the American public that what they were doing was not a final step, what they were doing was just a first step, a small first step, and the Senate was really where they would look at the evidence and be tested, the President would have a chance to defend himself -- that's really where the action -- but I think we're now in phase two, where they're saying, well, now that the President is impeached, he really should resign.",
+        "toxicity_score": 0.16906743,
+        "insult_score": 0.16394542,
+        "profanity_score": 0.08025537
+    },
+    {
+        "text": "The Republicans have made that clear.",
+        "toxicity_score": 0.15069182,
+        "insult_score": 0.10787601,
+        "profanity_score": 0.06604309
+    },
+    {
+        "text": "And everyone has put Peter Rodino, Republican and Democrat, in a position of authority and respect; whether they did it out of belief or out of political expediency, everyone has.",
+        "toxicity_score": 0.0691282,
+        "insult_score": 0.056053564,
+        "profanity_score": 0.016975941
+    },
+    {
+        "text": "Joe, a Republican congressman from Georgia, John Linder, yesterday accused the White House of being behind the leaks that led to Congressman Livingston's admission.",
+        "toxicity_score": 0.11652697,
+        "insult_score": 0.14053568,
+        "profanity_score": 0.07054651
+    },
+    {
+        "text": "Q: The criticism of the Republican strategy calls for the President to resign.",
+        "toxicity_score": 0.10389167,
+        "insult_score": 0.0905519,
+        "profanity_score": 0.05141375
+    },
+    {
+        "text": "Salon Magazine last week said that -- claimed that some people in the White House were considering releasing revelations about a number of Republicans -- MR.",
+        "toxicity_score": 0.11383264,
+        "insult_score": 0.11892767,
+        "profanity_score": 0.08361243
+    },
+    {
+        "text": "You mean Mr. Gingrich and Mr. Livingston -- MR.",
+        "toxicity_score": 0.12131391,
+        "insult_score": 0.10608838,
+        "profanity_score": 0.08616456
+    },
+    {
+        "text": "It reminds me of that old joke that the Republicans used to tell on us; they told me, if I voted for Barry Goldwater, we'd get involved in Vietnam too much.",
+        "toxicity_score": 0.17462093,
+        "insult_score": 0.16266741,
+        "profanity_score": 0.08469501
+    },
+    {
+        "text": "I of Jordan, and President Jacques Chirac of France, as well as Speaker of the House Newt Gingrich, House Majority Leader Bob Livingston, Senate Majority Leader Trent Lott, Senate Minority Leader Thomas A. Daschle, and House Minority Leader Richard A. Gephardt.",
+        "toxicity_score": 0.1972026,
+        "insult_score": 0.26911873,
+        "profanity_score": 0.16458376
+    },
+    {
+        "text": "I thank the few brave Republicans who withstood enormous pressure to stand with them for the plain meaning of the Constitution and for the proposition that we need to pull together, to move beyond partisanship, to get on with the business of our country.",
+        "toxicity_score": 0.15077102,
+        "insult_score": 0.12515359,
+        "profanity_score": 0.08303003
+    },
+    {
+        "text": "That approach was rejected today by Republicans in the House.",
+        "toxicity_score": 0.18159996,
+        "insult_score": 0.16238816,
+        "profanity_score": 0.091381684
+    },
+    {
+        "text": "Q: If the Republicans behave like the Democrats who booed and told Livingston to resign, they shouted at him, and then they all walked out -- what if the Republicans behaved like Democrats, Joe?",
+        "toxicity_score": 0.36205894,
+        "insult_score": 0.39433417,
+        "profanity_score": 0.18795867
+    },
+    {
+        "text": "LOCKHART: I expect that both Republicans and Democrats will show respect for the President that he deserves.",
+        "toxicity_score": 0.13691606,
+        "insult_score": 0.123078756,
+        "profanity_score": 0.10479413
+    },
+    {
+        "text": "And what it was more about was politics and the determined leadership of the Republican Party to push this process forward and try to remove the President from office.",
+        "toxicity_score": 0.111385174,
+        "insult_score": 0.09901454,
+        "profanity_score": 0.0504047
+    },
+    {
+        "text": "He'll have a Republican judge and Republican managers.",
+        "toxicity_score": 0.16273353,
+        "insult_score": 0.15754989,
+        "profanity_score": 0.07179732
+    },
+    {
+        "text": "Joe, following up on that quickly, many are saying that there is a perfect hatred after what happened Saturday -- that the Republicans have a perfect hatred for the President, and that will trickle over into the Senate.",
+        "toxicity_score": 0.16771008,
+        "insult_score": 0.13481988,
+        "profanity_score": 0.052965093
+    },
+    {
+        "text": "If the Republicans did this for political reasons, clearly it was a failure, with something like 27 percent of the public supporting them.",
+        "toxicity_score": 0.36143577,
+        "insult_score": 0.37141967,
+        "profanity_score": 0.17107442
+    },
+    {
+        "text": "Is it possible -- have you ruled out completely that Republicans did a politically unpopular thing because they actually thought it was the right thing to do?",
+        "toxicity_score": 0.2259555,
+        "insult_score": 0.22592376,
+        "profanity_score": 0.106494896
+    },
+    {
+        "text": "Joe, do you think that the Republicans were not voting their conscience?",
+        "toxicity_score": 0.0909343,
+        "insult_score": 0.08018907,
+        "profanity_score": 0.033019498
+    },
+    {
+        "text": "I thought it was a perfect bipartisan cover -- the leader of the Democratic and the Republican Party.",
+        "toxicity_score": 0.08858501,
+        "insult_score": 0.10006571,
+        "profanity_score": 0.057170738
+    },
+    {
+        "text": "Q: Joe, just to clarify what you had said earlier, do you believe that all those Republicans and the five Democrats who voted with them were doing it only for partisan reasons and not because of their conscience?",
+        "toxicity_score": 0.11123677,
+        "insult_score": 0.0973557,
+        "profanity_score": 0.0328377
+    },
+    {
+        "text": "Joe, the L.A. Times reported that the President thinks his biggest mistake in terms of the impeachment of the House was that he didn't press moderate Republicans to come out and commit right after the election when there was a strong momentum for some alternative solution.",
+        "toxicity_score": 0.18973307,
+        "insult_score": 0.2134961,
+        "profanity_score": 0.101587355
+    },
+    {
+        "text": "I think there's some indication today, based on a letter from moderate Republicans to the Senate, that given a choice we may have had a different choice in the House.",
+        "toxicity_score": 0.07950172,
+        "insult_score": 0.07989018,
+        "profanity_score": 0.041115955
+    },
+    {
+        "text": "Q: Can the American public really make a difference with censure in the Senate, because apparently, the Republicans didn't look at the polls in the House as far as what to do with the President?",
+        "toxicity_score": 0.15596834,
+        "insult_score": 0.12945056,
+        "profanity_score": 0.0763048
+    },
+    {
+        "text": "I think it's probably wise to wait until this process works itself through on the Republican side.",
+        "toxicity_score": 0.04005902,
+        "insult_score": 0.037732568,
+        "profanity_score": 0.014640419
+    },
+    {
+        "text": "And I think he looks forward to, if the Republicans make the decision that all are speculating on, working with him in a bipartisan manner.",
+        "toxicity_score": 0.1726282,
+        "insult_score": 0.18887176,
+        "profanity_score": 0.10330717
+    },
+    {
+        "text": "He has worked with the Republicans over the last six years to get an enormous amount of work done.",
+        "toxicity_score": 0.0864869,
+        "insult_score": 0.07278276,
+        "profanity_score": 0.031928178
+    },
+    {
+        "text": "Q: Joe, wouldn't it be essential to the reconciliation the White House has been talking about to acknowledge that some Republicans may have voted their conscience on impeachment, that it may not have been completely partisan on the part of all -- MR.",
+        "toxicity_score": 0.1757984,
+        "insult_score": 0.1323105,
+        "profanity_score": 0.085660726
+    },
+    {
+        "text": "I assume you're referring to the fact that 98 percent of the Republicans voted as a block to vote for impeachment.",
+        "toxicity_score": 0.18690464,
+        "insult_score": 0.1673447,
+        "profanity_score": 0.07563121
+    },
+    {
+        "text": "Well, I think if you look at the whole process, at the beginning of the process there were a number of Democrats who voted with the Republicans to sort of create this open-ended process that we saw.",
+        "toxicity_score": 0.07888571,
+        "insult_score": 0.079829484,
+        "profanity_score": 0.03580149
+    },
+    {
+        "text": "Q: In the final vote the Democrats voted their conscience, but the Republicans were partisan?",
+        "toxicity_score": 0.17519295,
+        "insult_score": 0.16045834,
+        "profanity_score": 0.08357465
+    },
+    {
+        "text": "We found out today there were Republicans who may -- ultimately didn't do what they felt was in the best interest of their constituents.",
+        "toxicity_score": 0.12216004,
+        "insult_score": 0.12267156,
+        "profanity_score": 0.06254121
+    },
+    {
+        "text": "Madam Secretary, the Republicans have already indicated that they might find this acceptable if it does not include a tax increase.",
+        "toxicity_score": 0.09551708,
+        "insult_score": 0.10241955,
+        "profanity_score": 0.059750114
+    },
+    {
+        "text": "I mean, the Republicans might just behave like Democrats.",
+        "toxicity_score": 0.42980883,
+        "insult_score": 0.45235252,
+        "profanity_score": 0.16589186
+    },
+    {
+        "text": "Can I just ask you, why in the world would the President want to go up there and address the Joint Session when Republicans may stage some sort of protest, may walk out, may do any number of things to dramatize the -- MR. LOCKHART: Because the President has important work that he's doing and he looks forward to presenting it to the country.",
+        "toxicity_score": 0.08754803,
+        "insult_score": 0.10262869,
+        "profanity_score": 0.07873188
+    },
+    {
+        "text": "Joe, do you know if any of the informal discussions have been with Republican senators?",
+        "toxicity_score": 0.051897097,
+        "insult_score": 0.042145338,
+        "profanity_score": 0.015269987
+    },
+    {
+        "text": "I don't know that anyone from here has talked to the Senate Republican leadership.",
+        "toxicity_score": 0.11205406,
+        "insult_score": 0.10252397,
+        "profanity_score": 0.049930662
+    },
+    {
+        "text": "It's pretty clear that -- Senator Lott said today that the Senate Republicans are inclined to defer to the House prosecutors as to how they want to present the case, at least within certain bounds.",
+        "toxicity_score": 0.2120496,
+        "insult_score": 0.2484579,
+        "profanity_score": 0.11383384
+    },
+    {
+        "text": "Joe, if there's no agreement worked out between the Republicans and the Democrats and there are witnesses, is the White House still leaving open the option of a constitutional challenge to the lame-duck aspect of the 105th Congress?",
+        "toxicity_score": 0.37197715,
+        "insult_score": 0.40531597,
+        "profanity_score": 0.24142374
+    },
+    {
+        "text": "So what happens on Monday in the estimation of the White House if the Republicans want to proceed without saying where it ends?",
+        "toxicity_score": 0.22672974,
+        "insult_score": 0.17478405,
+        "profanity_score": 0.11004369
+    },
+    {
+        "text": "LOCKHART: I think through conversations with both Democrats and Republicans on the Hill, they have a sense of what our view is, and based on -- in most broad terms what I've said from here -- but I think we believe it's proper that they go about and set out the format or the process for how they'll proceed in this trial.",
+        "toxicity_score": 0.10785593,
+        "insult_score": 0.12057743,
+        "profanity_score": 0.10035154
+    },
+    {
+        "text": "Are you suggesting that the aspersions might have an effect or that there might be some political pressure being put by Republican House members on members of their own party in the Senate?",
+        "toxicity_score": 0.1743066,
+        "insult_score": 0.12716618,
+        "profanity_score": 0.0632882
+    },
+    {
+        "text": "What is it that Republican managers are doing in regard to the Senate that you're concerned about?",
+        "toxicity_score": 0.071784474,
+        "insult_score": 0.07524734,
+        "profanity_score": 0.024131302
+    },
+    {
+        "text": "There were some calls yesterday after the midair engagement of the Iraqi and the U.S. planes from some Republican senators, that the administration ought to move aggressively, take out the air bases, take out those planes so as to protect the lives of American flyers.",
+        "toxicity_score": 0.28404543,
+        "insult_score": 0.35201696,
+        "profanity_score": 0.24739219
+    },
+    {
+        "text": "This is the record that was sent along by the Independent Counsel, Ken Starr, which, I think if you go back and do a little searching, was widely praised by the Republicans on that committee as the basis for the action that they took and the articles of impeachment that they passed in the House.",
+        "toxicity_score": 0.12086542,
+        "insult_score": 0.16955645,
+        "profanity_score": 0.09493102
+    },
+    {
+        "text": "There have been those who have speculated that politically it's in the best interest of the Democrats to let the Republicans do what they did in the House in the Senate.",
+        "toxicity_score": 0.12264927,
+        "insult_score": 0.10342991,
+        "profanity_score": 0.048748754
+    },
+    {
+        "text": "There are a lot of Senate Republicans who want to call witnesses; why not direct your comments to them?",
+        "toxicity_score": 0.21988985,
+        "insult_score": 0.19558433,
+        "profanity_score": 0.09453103
+    },
+    {
+        "text": "This is what the House of Representatives, controlled by the Republican Party -- and I'll remind you, there were only five Democrats who voted for this process in the House -- that they, I believe in a partisan way, decided this was the best way to try to convict the President in the Senate, by sending this record.",
+        "toxicity_score": 0.123388045,
+        "insult_score": 0.12899587,
+        "profanity_score": 0.081086196
+    },
+    {
+        "text": "Joe, is it a sad commentary on society now that we're sitting here waiting for the next sex scandal to come out this time on Republicans on the Hill, especially since years ago, these kinds of dalliances were swept under the rug and we didn't see them?",
+        "toxicity_score": 0.46241534,
+        "insult_score": 0.45269802,
+        "profanity_score": 0.42539284
+    },
+    {
+        "text": "Joe, you said earlier that you expect that during the State of the Union address that the Republicans will be well behaved, they will not get up and walk out, they will not boo and they will not hiss, like the Democrats did, as you remember.",
+        "toxicity_score": 0.22838213,
+        "insult_score": 0.27590767,
+        "profanity_score": 0.105584025
+    },
+    {
+        "text": "Do you believe the Republicans are more courteous and well behaved or what?",
+        "toxicity_score": 0.12010857,
+        "insult_score": 0.10591487,
+        "profanity_score": 0.04264963
+    },
+    {
+        "text": "Q: Any Republicans that you've been able to enlist to help you?",
+        "toxicity_score": 0.15048608,
+        "insult_score": 0.10981337,
+        "profanity_score": 0.056653757
+    },
+    {
+        "text": "I know that there have been a variety of former Republican senators who have made public statements about trying to shorten the process and find some way to short-circuit this, but I don't know that we're in any way in touch with them.",
+        "toxicity_score": 0.07613438,
+        "insult_score": 0.0693216,
+        "profanity_score": 0.042484183
+    },
+    {
+        "text": "Joe, you said this morning that the Republican brief read like a bad mystery novel.",
+        "toxicity_score": 0.120718926,
+        "insult_score": 0.104916416,
+        "profanity_score": 0.035581626
+    },
+    {
+        "text": "There has always been serious interest in Social Security on both the Democrat and Republican side, and that's for a simple reason: Because our constituents, the people who elected the President and elected the members of Congress feel this is one of, if not the most critical, domestic issue facing this country over the next few decades, and I think there will be a strong demand for us to deal with this in a productive and comprehensive and bipartisan fashion.",
+        "toxicity_score": 0.07135731,
+        "insult_score": 0.086471595,
+        "profanity_score": 0.06143214
+    },
+    {
+        "text": "I knew if I listened long enough, that Republican rhetoric would finally sound good around one issue.",
+        "toxicity_score": 0.097927235,
+        "insult_score": 0.09304674,
+        "profanity_score": 0.04161022
+    },
+    {
+        "text": "The facts and assertions that were made yesterday by the House Republican managers we've heard before; in fact, we've heard many times -- first from the Independent Counsel's statements and referrals and through the Judiciary Committee.",
+        "toxicity_score": 0.11454796,
+        "insult_score": 0.12999187,
+        "profanity_score": 0.09583042
+    },
+    {
+        "text": "Q: Joe, some of the Republicans seem to be starting the drum beat about getting the President to testify.",
+        "toxicity_score": 0.22088152,
+        "insult_score": 0.22336131,
+        "profanity_score": 0.15252604
+    },
+    {
+        "text": "I saw from some of the reporting that the Republicans have just taken a poll on this -- and this is a winner, they think, for them.",
+        "toxicity_score": 0.119201556,
+        "insult_score": 0.12224696,
+        "profanity_score": 0.06176537
+    },
+    {
+        "text": "I'm proud that you have people like Jack Kemp and some Republican business leaders who are here.",
+        "toxicity_score": 0.036133558,
+        "insult_score": 0.02716551,
+        "profanity_score": 0.01412021
+    },
+    {
+        "text": "We need help from Republicans and Democrats.",
+        "toxicity_score": 0.074605644,
+        "insult_score": 0.05427163,
+        "profanity_score": 0.020136436
+    },
+    {
+        "text": "It can't be a Democratic issue or a Republican issue.",
+        "toxicity_score": 0.20271377,
+        "insult_score": 0.18355271,
+        "profanity_score": 0.09554465
+    },
+    {
+        "text": "No, seriously -- there was a very healthy debate among Democrats and Republicans about what the surplus should be used for.",
+        "toxicity_score": 0.296088,
+        "insult_score": 0.30261686,
+        "profanity_score": 0.21026069
+    },
+    {
+        "text": "The Republicans argued very forcefully and strenuously that we ought to immediately turn around and have tax cuts.",
+        "toxicity_score": 0.3780081,
+        "insult_score": 0.35416386,
+        "profanity_score": 0.21732254
+    },
+    {
+        "text": "Mr. Secretary, how much of this can you accomplish without Congress's active participation, given that Speaker Hastert and Senator Majority Leader Lott have just sent the President a letter calling for more local control, which would -- perhaps Republicans might say argue against what you're doing, and given that your efforts last year both to boost school construction money and to press the national standards program received very little support on Capitol Hill?",
+        "toxicity_score": 0.1107569,
+        "insult_score": 0.10127002,
+        "profanity_score": 0.04646795
+    },
+    {
+        "text": "And I think that there is no good reason why anyone in Congress, Republican or Democrat, would quarrel with the basic principle that taxpayer dollars ought to support results.",
+        "toxicity_score": 0.15691125,
+        "insult_score": 0.14430986,
+        "profanity_score": 0.074623264
+    },
+    {
+        "text": "These are all things that governors and mayors in both parties around the country are doing, and we believe that ending social promotion, testing new teachers, turning around failing schools, holding schools accountable for results to the taxpayers are all sound, common-sense ideas that Republicans and Democrats ought to be able to agree on, even in Washington.",
+        "toxicity_score": 0.11798387,
+        "insult_score": 0.15218873,
+        "profanity_score": 0.073749356
+    },
+    {
+        "text": "And we think we have a better chance of doing this if we do this by working with Democrats and Republicans on the House Ways and Means and Senate Finance Committee than just trying to put out all the details ourselves.",
+        "toxicity_score": 0.077059045,
+        "insult_score": 0.06667233,
+        "profanity_score": 0.027380629
+    },
+    {
+        "text": "In the old days I used to say that I knew what the Republicans stood for and what they were fighting for",
+        "toxicity_score": 0.119066626,
+        "insult_score": 0.08453644,
+        "profanity_score": 0.042945553
+    },
+    {
+        "text": "I don't know who the leader of the Republican Party, I don't know what their agenda is.",
+        "toxicity_score": 0.11758325,
+        "insult_score": 0.09912672,
+        "profanity_score": 0.046433214
+    },
+    {
+        "text": "We have a list of other options that are all a little controversial, but if we can get the Republicans and Democrats to hold hands, we could do it.",
+        "toxicity_score": 0.09996688,
+        "insult_score": 0.08323355,
+        "profanity_score": 0.033583675
+    },
+    {
+        "text": "Then if we can get the Republicans and Democrats together—and in March we're going to have a report from a bipartisan commission that will start the debate—we can make a few other changes, save it till 2020, and begin to provide for prescription drugs.",
+        "toxicity_score": 0.1224907,
+        "insult_score": 0.1379169,
+        "profanity_score": 0.07067192
+    },
+    {
+        "text": "But he went around to Republicans and Democrats alike and said, \"You know, I come from Philadelphia.",
+        "toxicity_score": 0.0884085,
+        "insult_score": 0.08128159,
+        "profanity_score": 0.048152085
+    },
+    {
+        "text": "Q: Joe, after two days of defense presentation, what's your appraisal of where the Democratic caucus in the Senate is right now, and whether you've made any inroads into the Republican caucus?",
+        "toxicity_score": 0.07213113,
+        "insult_score": 0.06482185,
+        "profanity_score": 0.028349562
+    },
+    {
+        "text": "We have policy differences between the Democratic Party and the Republican Party from all sides of the political spectrum.",
+        "toxicity_score": 0.07130301,
+        "insult_score": 0.06330188,
+        "profanity_score": 0.025171347
+    },
+    {
+        "text": "No, listen, I'm not going to offer any analysis, and I think the conservative members of the Republican Party can answer that question themselves.",
+        "toxicity_score": 0.15758355,
+        "insult_score": 0.116381586,
+        "profanity_score": 0.08141404
+    },
+    {
+        "text": "I think there were quotes from Republicans in the paper today who were disappointed that he took that approach over the tax cuts that they've presented.",
+        "toxicity_score": 0.17008348,
+        "insult_score": 0.14774938,
+        "profanity_score": 0.09551159
+    },
+    {
+        "text": "Q: Does the President believe that there's a choice between setting aside the roughly two-thirds for Social Security and the broad-based tax cuts the Republicans are proposing, that the country has to choose between those two options?",
+        "toxicity_score": 0.083364524,
+        "insult_score": 0.08051327,
+        "profanity_score": 0.054241523
+    },
+    {
+        "text": "LOCKHART: I don't think -- certainly not on the scale that some of the Republican leaders have talked about, no.",
+        "toxicity_score": 0.14927018,
+        "insult_score": 0.11906713,
+        "profanity_score": 0.074985884
+    },
+    {
+        "text": "Bob Dole, for years, and the Republicans have said that we needed this, and the administration hasn't moved on it as fast, but was it the North Korean nuclear test precisely?",
+        "toxicity_score": 0.07279447,
+        "insult_score": 0.052235886,
+        "profanity_score": 0.025912847
+    },
+    {
+        "text": "The Republicans have now rejected that.",
+        "toxicity_score": 0.120048374,
+        "insult_score": 0.09411915,
+        "profanity_score": 0.04921328
+    },
+    {
+        "text": "That same bipartisan plan was put forward to the Republican Caucus and they've rejected it.",
+        "toxicity_score": 0.08797,
+        "insult_score": 0.06532391,
+        "profanity_score": 0.033905633
+    },
+    {
+        "text": "So we think that it's unfortunate that the Republican Caucus has rejected a plan that on a bipartisan basis could bring this case to a conclusion in an expedited way.",
+        "toxicity_score": 0.071266,
+        "insult_score": 0.068470664,
+        "profanity_score": 0.027382629
+    },
+    {
+        "text": "I think there was a ray of hope for an hour or so with this bipartisan plan getting support within the Democrats and there was some scuttle that the Republicans might endorse this plan, but, unfortunately, they've decided to oppose it.",
+        "toxicity_score": 0.13827942,
+        "insult_score": 0.15754494,
+        "profanity_score": 0.10743773
+    },
+    {
+        "text": "In light of the fact that the Republicans in previous Congresses have taken very strong positions against any kind of sampling, why does the White House think that there is a shot at this?",
+        "toxicity_score": 0.2823687,
+        "insult_score": 0.23367935,
+        "profanity_score": 0.13202673
+    },
+    {
+        "text": "The President's proposal on the budget surplus has been criticized by Republicans for not setting aside any of it toward tax cuts.",
+        "toxicity_score": 0.18148942,
+        "insult_score": 0.1391491,
+        "profanity_score": 0.099401146
+    },
+    {
+        "text": "And I'll remind you that there has been some criticism and there certainly has been some very positive signs from some Republicans who talk about this being a good starting point, who quibble or disagree on some of the elements of this.",
+        "toxicity_score": 0.065103486,
+        "insult_score": 0.06694346,
+        "profanity_score": 0.027589908
+    },
+    {
+        "text": "Given that three Republican senators this weekend -- Senator Snowe and a couple others -- said they're looking for a way to get out of this thing quickly, does the White House believe it's won the political battle now, despite the legal setback with Monica Lewinsky and the Johnson ruling -- MR.",
+        "toxicity_score": 0.17272858,
+        "insult_score": 0.18523476,
+        "profanity_score": 0.10785129
+    },
+    {
+        "text": "But we also know that the Senate Republicans will ultimately do what the Senate Republicans want to do.",
+        "toxicity_score": 0.17141803,
+        "insult_score": 0.14046882,
+        "profanity_score": 0.082999654
+    },
+    {
+        "text": "And I'll remind you that it is the Republicans who have a majority on the committee who set the rules.",
+        "toxicity_score": 0.06678486,
+        "insult_score": 0.04294097,
+        "profanity_score": 0.017124284
+    },
+    {
+        "text": "And I'll remind you that each of the votes in that committee about the rules and what was made public and what was kept private were done on a party line vote -- Republicans voting for what was let out and what wasn't; Democrats voting against.",
+        "toxicity_score": 0.08938742,
+        "insult_score": 0.07257817,
+        "profanity_score": 0.037814833
+    },
+    {
+        "text": "That is against the rules set by the Republicans on the House Judiciary Committee.",
+        "toxicity_score": 0.13975789,
+        "insult_score": 0.11783333,
+        "profanity_score": 0.08027655
+    },
+    {
+        "text": "right wing of the conservatives of the Republican Party find some way to extend it.",
+        "toxicity_score": 0.11738632,
+        "insult_score": 0.101225786,
+        "profanity_score": 0.059985306
+    },
+    {
+        "text": "And as I think, as some of the senators said this morning, as we move forward here, the country will understand that this trial belongs to the Senate Republicans and the House managers and that they alone are responsible for extending this process.",
+        "toxicity_score": 0.10071474,
+        "insult_score": 0.08935853,
+        "profanity_score": 0.05091822
+    },
+    {
+        "text": "Q: Joe, are those 10 questions that the Republican senators sent down, is that now a dead issue?",
+        "toxicity_score": 0.16863336,
+        "insult_score": 0.10425703,
+        "profanity_score": 0.05616211
+    },
+    {
+        "text": "Some people have said, the White House now wants to keep this going because it seems to be hurting the Republican Party, and it's going to damage them coming up in the 2000 elections.",
+        "toxicity_score": 0.23500434,
+        "insult_score": 0.16517037,
+        "profanity_score": 0.11620757
+    },
+    {
+        "text": "I think there were a slew of Republican senators over the weekend all talking about how they've moved off perjury",
+        "toxicity_score": 0.20803659,
+        "insult_score": 0.21215343,
+        "profanity_score": 0.09508148
+    },
+    {
+        "text": "Stuart has worked for Republican and for Democratic administrations.",
+        "toxicity_score": 0.050404146,
+        "insult_score": 0.03747146,
+        "profanity_score": 0.018273493
+    },
+    {
+        "text": "Let me say one other thing to Mr. Portman, if you were to set aside this much money for Social Security and Medicare, then most of the Republican caucus would believe that there is not enough money left for a tax cut of the size you believe should flow.",
+        "toxicity_score": 0.12982564,
+        "insult_score": 0.1059897,
+        "profanity_score": 0.065095454
+    },
+    {
+        "text": "We also understand the arithmetic of the Senate, which is 55 Republicans and 45 Democrats.",
+        "toxicity_score": 0.070566386,
+        "insult_score": 0.06735974,
+        "profanity_score": 0.032299753
+    },
+    {
+        "text": "So, ultimately, the Republicans can do what they feel is best, even if it's not something that is fair to the President.",
+        "toxicity_score": 0.119359426,
+        "insult_score": 0.12361411,
+        "profanity_score": 0.06296902
+    },
+    {
+        "text": "And what was the first thing the Republican majority did after that vote?",
+        "toxicity_score": 0.06663648,
+        "insult_score": 0.058359843,
+        "profanity_score": 0.019129064
+    },
+    {
+        "text": "So America, looking in on this process, now understands that this extension and the fact that this trial continues to go on, and the fact that the Senate continues to be diverted from their business, is the responsibility of the Republican majority.",
+        "toxicity_score": 0.16279052,
+        "insult_score": 0.16929449,
+        "profanity_score": 0.089067295
+    },
+    {
+        "text": "You can conclude if they reach an unanimous consent agreement, that Senate Democrats and Senate Republicans have agreed.",
+        "toxicity_score": 0.079691716,
+        "insult_score": 0.06931331,
+        "profanity_score": 0.03486011
+    },
+    {
+        "text": "The Senate now knows that they will not remove the President, and the Republican majority has to answer to the country of why they want to continue to extend this process.",
+        "toxicity_score": 0.10333442,
+        "insult_score": 0.1017192,
+        "profanity_score": 0.048235882
+    },
+    {
+        "text": "Joe, you described the White House as being pretty much powerless to -- the Republicans have the vote to design the process as they see fit.",
+        "toxicity_score": 0.2835971,
+        "insult_score": 0.3410128,
+        "profanity_score": 0.14233367
+    },
+    {
+        "text": "I'll remind you that House Republicans argued as a constitutional matter that you cannot take up an issue of censure.",
+        "toxicity_score": 0.14615537,
+        "insult_score": 0.1212894,
+        "profanity_score": 0.049138848
+    },
+    {
+        "text": "And I don't remember a lot of Senate Republicans jumping to the White House defense at that point.",
+        "toxicity_score": 0.20302512,
+        "insult_score": 0.14002468,
+        "profanity_score": 0.07286994
+    },
+    {
+        "text": "The Republicans have made the choice that they want to keep this around for a while.",
+        "toxicity_score": 0.2046914,
+        "insult_score": 0.17884241,
+        "profanity_score": 0.09534038
+    },
+    {
+        "text": "I think the burden now is on the Republican majority to articulate to their colleagues and to the American public why we're still doing this,",
+        "toxicity_score": 0.16997696,
+        "insult_score": 0.1745048,
+        "profanity_score": 0.06519082
+    },
+    {
+        "text": "LOCKHART: Because the Republicans don't want to give it to us.",
+        "toxicity_score": 0.4346299,
+        "insult_score": 0.43360817,
+        "profanity_score": 0.32117093
+    },
+    {
+        "text": "LOCKHART: I would refer you to the political wizards in the Republican Party who thought up this idea, because they seem to believe that you can convict without removal by doing this.",
+        "toxicity_score": 0.19988315,
+        "insult_score": 0.1680807,
+        "profanity_score": 0.09336871
+    },
+    {
+        "text": "But one of the reasons may be that the Democrats in the Senate agree with the Republicans on some further way to proceed in this trial by unanimous consent.",
+        "toxicity_score": 0.09972809,
+        "insult_score": 0.08680313,
+        "profanity_score": 0.05636452
+    },
+    {
+        "text": "Joe, why is it okay when the Democrats vote as a bloc to keep the President from being convicted, but if Republicans vote as a bloc, they're engaged in political gamesmanship?",
+        "toxicity_score": 0.16768414,
+        "insult_score": 0.18434021,
+        "profanity_score": 0.084562086
+    },
+    {
+        "text": "And then we found out when they passed impeachment that within moments Republican leaders went out and thought the President should resign, that it was so important.",
+        "toxicity_score": 0.10932028,
+        "insult_score": 0.09425552,
+        "profanity_score": 0.046633884
+    },
+    {
+        "text": "We also understand that this isn't a normal legal proceeding, it's a proceeding where the rules get made up on the go and are made up by whoever has 51 votes and that, right now, is the Republican Party.",
+        "toxicity_score": 0.071945496,
+        "insult_score": 0.08044823,
+        "profanity_score": 0.03046704
+    },
+    {
+        "text": "Q: This resolution means that Daschle effectively has a veto over any Republican -- MR.",
+        "toxicity_score": 0.18710025,
+        "insult_score": 0.18823673,
+        "profanity_score": 0.09660603
+    },
+    {
+        "text": "I mean, I think it's self-evident that the Republican majority, now lacking the votes to remove the President, is using the simple majority they do have to extend this process for reasons that I think only they can articulate.",
+        "toxicity_score": 0.12382826,
+        "insult_score": 0.11980868,
+        "profanity_score": 0.0638673
+    },
+    {
+        "text": "We believe things have fallen down on partisan lines because -- particularly after the motion to dismiss vote with 44 Democrats, making clear that there aren't the votes to remove the President, there is an attempt here by the Republican majority to play out this process in a way that can inflict maximum political damage on the President.",
+        "toxicity_score": 0.07118464,
+        "insult_score": 0.05771583,
+        "profanity_score": 0.032754015
+    },
+    {
+        "text": "And there are worrying signs over the last two days with three, or four, or five consecutive party-line votes except for one senator -- not a single Republican has come the other way despite -- and I have to tell you, you all have read the papers and watched them on television -- despite days and days and days of buildup that talked about grave doubts, about the need to call witnesses or the need to keep going with this trial.",
+        "toxicity_score": 0.21620789,
+        "insult_score": 0.21337523,
+        "profanity_score": 0.105367295
+    },
+    {
+        "text": "The decision that the Republicans made over the last two days, rather than going directly to the articles and voting -- even though, if you listen to them, most of them have made up their mind -- so I don't think there is anybody here who is looking forward that extends this process.",
+        "toxicity_score": 0.09479798,
+        "insult_score": 0.09934419,
+        "profanity_score": 0.043918993
+    },
+    {
+        "text": "And I think the mayors as a group, both Democrat and Republicans from around the country, came to Washington, came here, to express their belief that it matters that he continue doing the job that he was elected to do.",
+        "toxicity_score": 0.05137104,
+        "insult_score": 0.040291987,
+        "profanity_score": 0.024055244
+    },
+    {
+        "text": "rather that conscious that's driving the Republicans forward?",
+        "toxicity_score": 0.10923498,
+        "insult_score": 0.086970665,
+        "profanity_score": 0.04838908
+    },
+    {
+        "text": "My take, and it's my take only, is from the beginning the people who have had the strongest voice among the Republicans are those on the far right",
+        "toxicity_score": 0.17783472,
+        "insult_score": 0.13417533,
+        "profanity_score": 0.06186445
+    },
+    {
+        "text": "and they so state their belief, that the best politics for the Republican Party are the politics of attacking the President, trying to remove him; the politics of destruction.",
+        "toxicity_score": 0.1647936,
+        "insult_score": 0.10347331,
+        "profanity_score": 0.057350717
+    },
+    {
+        "text": "And I think, again, it's just hard to square those Republican senators who are now arguing forcefully that these must be made public, with their logic that their deliberations on this important issue must be kept private.",
+        "toxicity_score": 0.12223923,
+        "insult_score": 0.08400748,
+        "profanity_score": 0.038955845
+    },
+    {
+        "text": "LOCKHART: I think that the purpose -- one of the purposes of questioning these people is to put out information that the Republicans believe will cause embarrassment to the President, yes.",
+        "toxicity_score": 0.23526952,
+        "insult_score": 0.19558638,
+        "profanity_score": 0.11283502
+    },
+    {
+        "text": "This is going to undoubtedly unleash a flood of requests from Republicans in Congress -- even from some of the mayors who stood in the driveway and said, use it for cities.",
+        "toxicity_score": 0.18851891,
+        "insult_score": 0.20141517,
+        "profanity_score": 0.11046909
+    },
+    {
+        "text": "Now, every one of these initiatives will require Democrats and Republicans to work together to get through Congress.",
+        "toxicity_score": 0.06440605,
+        "insult_score": 0.049395133,
+        "profanity_score": 0.022550115
+    },
+    {
+        "text": "I think the Senate has the ability -- as the House wanted to, but the House Republican leadership would not let them -- to deal with a censure proposal, and they should do that if they see fit, after they have dealt with the impeachment articles.",
+        "toxicity_score": 0.13255176,
+        "insult_score": 0.17301115,
+        "profanity_score": 0.08780643
+    },
+    {
+        "text": "Let me just say this, as a person who stood at the podium and talked about the enormous pressure that the Republicans were being put under by their leadership and had it denied at every step of the way by the House leadership, I guess I was right",
+        "toxicity_score": 0.1507998,
+        "insult_score": 0.13708694,
+        "profanity_score": 0.08318024
+    },
+    {
+        "text": "I still think if there is one idea that sort of often divides us from our friends in the Republican Party, it is our passionate belief in community, the idea that we are interdependent, that none of us is better than any other, that we can never fulfill our complete destiny as individuals and families unless we live in a country which is giving everybody the chance to do it, and we're all working together.",
+        "toxicity_score": 0.05656298,
+        "insult_score": 0.055025388,
+        "profanity_score": 0.024541298
+    },
+    {
+        "text": "There has been a motion offered to dismiss; the Republican Party as the majority party defeated that on party lines.",
+        "toxicity_score": 0.075986035,
+        "insult_score": 0.077668376,
+        "profanity_score": 0.04569119
+    },
+    {
+        "text": "That is a view that broadly was held by the House Republican leaders, who refused to allow a censure vote to come to the floor, as you all remember, in December, over the objections of many within their own party.",
+        "toxicity_score": 0.12167847,
+        "insult_score": 0.12526998,
+        "profanity_score": 0.08736873
+    },
+    {
+        "text": "But you know as well as I do that a lot of Americans—it's very interesting—when we had this trade debate last year, I found that there was an unusual alliance in the Congress between some of the most conservative Republicans and some of the most liberal Democrats, both of whom thought those of us who were sort of stuck in the middle believing that we could actually create a new world economic system that would benefit ordinary people were wrong, and they thought we had to withdraw.",
+        "toxicity_score": 0.09684241,
+        "insult_score": 0.10987707,
+        "profanity_score": 0.07054262
+    },
+    {
+        "text": "As I said, I'm working hard within my own party to build a consensus on this, and at the same time I'm trying to reach out to Republicans to build a consensus with them.",
+        "toxicity_score": 0.10447038,
+        "insult_score": 0.09579041,
+        "profanity_score": 0.0506345
+    },
+    {
+        "text": "Q: Do you regard the articles, though -- for instance, you had Senator Leahy this morning who said that many Democrats as well as Republicans view the articles themselves as the ultimate form of censure -- MR.",
+        "toxicity_score": 0.19424643,
+        "insult_score": 0.25735548,
+        "profanity_score": 0.1595679
+    },
+    {
+        "text": "Q: Was the White House surprised by the fact that 25 Republicans joined all 45 Democrats in not wanting live witnesses?",
+        "toxicity_score": 0.2777338,
+        "insult_score": 0.23038957,
+        "profanity_score": 0.09709734
+    },
+    {
+        "text": "And I think it's a question to put to the Senate Republicans and Democrats on why they're taking the positions they're taking.",
+        "toxicity_score": 0.11726249,
+        "insult_score": 0.09398079,
+        "profanity_score": 0.043794528
+    },
+    {
+        "text": "Q: -- yesterday suggested that the White House would meet with Republican leaders after this.",
+        "toxicity_score": 0.122157924,
+        "insult_score": 0.10280945,
+        "profanity_score": 0.061188426
+    },
+    {
+        "text": "LOCKHART: I think the President -- if you look at the State of the Union address, where he both literally and figuratively reached out his hands to Denny Hastert and the Republican Party -- we have a very ambitious agenda that we're looking forward to working with Congress on, both Republicans and Democrats.",
+        "toxicity_score": 0.1068175,
+        "insult_score": 0.10492579,
+        "profanity_score": 0.07538282
+    },
+    {
+        "text": "There is nothing in particular in the works, but I expect as the legislative season moves on we will have an opportunity to sit down with the Democratic leaders, the Republican leaders, and move that agenda forward.",
+        "toxicity_score": 0.12082101,
+        "insult_score": 0.12986238,
+        "profanity_score": 0.10053618
+    },
+    {
+        "text": "So the logistics of when we set that up are open, but I think the President believes it's important to work with both Republicans and Democrats and we'll do that.",
+        "toxicity_score": 0.034924608,
+        "insult_score": 0.02957831,
+        "profanity_score": 0.013722937
+    },
+    {
+        "text": "Well, I don't know that you could ever pretend that none of this ever happened, but the President said very directly in the State of the Union that it's the people's business that comes first, and in order to do the people's business the President has to work with Democrats and Republicans in the House and in the Senate.",
+        "toxicity_score": 0.06743266,
+        "insult_score": 0.056712527,
+        "profanity_score": 0.021878585
+    },
+    {
+        "text": "He believes he has concentrated on doing his job over the last year; he's going to continue to do that and in order to do that, the reality of the world is Republicans control -- have a majority in Congress and we need to work with them, and we plan to.",
+        "toxicity_score": 0.13502556,
+        "insult_score": 0.11536751,
+        "profanity_score": 0.05904466
+    },
+    {
+        "text": "Q: Joe, is the White House concerned that Republicans may filibuster the censure motion, maybe try to take that off the table and thereby induce more people to vote in favor of conviction, as happened in the House -- you said happened in the House?",
+        "toxicity_score": 0.26320943,
+        "insult_score": 0.23714279,
+        "profanity_score": 0.1361816
+    },
+    {
+        "text": "One is to basically pay down the national debt and lock those savings in that will make for the long-term solvency of the Social Security system, while at the same time working with Republicans and Democrats on the Hill at some of the structural issue that we have to face.",
+        "toxicity_score": 0.06679029,
+        "insult_score": 0.045152117,
+        "profanity_score": 0.024206642
+    },
+    {
+        "text": "Joe, the President said that he wants to help Democrats regain the House in 2000, and he wants to work with the Republican leadership to get things accomplished in the next two years.",
+        "toxicity_score": 0.02506386,
+        "insult_score": 0.035543244,
+        "profanity_score": 0.018778611
+    },
+    {
+        "text": "Republicans have some quite different ideas.",
+        "toxicity_score": 0.07328791,
+        "insult_score": 0.055510487,
+        "profanity_score": 0.022584533
+    },
+    {
+        "text": "I want to address the business we were talking about this morning, and that is stories that say that there is going to be revenge visited upon Republicans and other people who have been the President's critics in this whole business.",
+        "toxicity_score": 0.4076765,
+        "insult_score": 0.30104533,
+        "profanity_score": 0.22072995
+    },
+    {
+        "text": "Will he or will he not brand the Republican Party as the party of impeachment?",
+        "toxicity_score": 0.08363646,
+        "insult_score": 0.08018477,
+        "profanity_score": 0.036985945
+    },
+    {
+        "text": "We can do that with Republicans as we move forward.",
+        "toxicity_score": 0.08016362,
+        "insult_score": 0.07041905,
+        "profanity_score": 0.04461163
+    },
+    {
+        "text": "Joe, just to be clear about it, are you saying that the President's anger at House Republicans will not, in any way, animate his efforts on behalf of Democrats in the 2000 election?",
+        "toxicity_score": 0.16220863,
+        "insult_score": 0.16367604,
+        "profanity_score": 0.10410266
+    },
+    {
+        "text": "And I fully expect the President to meet both with Democratic and Republican leaders sometime after they get back.",
+        "toxicity_score": 0.13825929,
+        "insult_score": 0.11896929,
+        "profanity_score": 0.062132325
+    },
+    {
+        "text": "Joe, congressional Republicans want to get fast track moving and they've complained that the White House has not been as interested as previously in doing this, even though I believe the President mentioned it in the State of the Union.",
+        "toxicity_score": 0.091083534,
+        "insult_score": 0.09253809,
+        "profanity_score": 0.03504045
+    },
+    {
+        "text": "Oh, I can equally see a scenario where Democratic ideas and agenda items will get support from Republicans who feel that they need to do something before they go back to the voters.",
+        "toxicity_score": 0.11817631,
+        "insult_score": 0.101769455,
+        "profanity_score": 0.04088017
+    },
+    {
+        "text": "Q: Republicans appear to be focusing more on targeted tax cuts such as marriage penalty or estate taxes.",
+        "toxicity_score": 0.278699,
+        "insult_score": 0.31242973,
+        "profanity_score": 0.15804751
+    },
+    {
+        "text": "As far as trying to compare the various ideas that are coming out of the Republican Party, the ideas put out recently are certainly more progressive than the across-the-board tax cut, but I think it skirts the more important issue of doing what we need to do first on Social Security and Medicare.",
+        "toxicity_score": 0.07979233,
+        "insult_score": 0.07926242,
+        "profanity_score": 0.05774626
+    },
+    {
+        "text": "Q: So he listed the Republicans -- MR.",
+        "toxicity_score": 0.12849195,
+        "insult_score": 0.11832908,
+        "profanity_score": 0.091426246
+    },
+    {
+        "text": "Well, I think the President tried to reach out a hand just a few moments ago to Democrats and Republicans saying that this needs to be and must be a time of reconciliation and renewal.",
+        "toxicity_score": 0.104244396,
+        "insult_score": 0.09242574,
+        "profanity_score": 0.046477076
+    },
+    {
+        "text": "These are all issues that, because of the nature of our government, we're going to have to reach out and get Republican support for.",
+        "toxicity_score": 0.14610258,
+        "insult_score": 0.12530069,
+        "profanity_score": 0.086994335
+    },
+    {
+        "text": "Joe, you said that the President would work for all Democratic candidates, not target particularly any one, meaning the Republican managers.",
+        "toxicity_score": 0.041990057,
+        "insult_score": 0.065135136,
+        "profanity_score": 0.024917325
+    }
+]

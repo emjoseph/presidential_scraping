@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a569f8a9-a7af-4424-baf7-15aa3da4b1f9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/adjective_sentence_toxicity_analysis.js" beforeDir="false" afterPath="$PROJECT_DIR$/adjective_sentence_toxicity_analysis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/adjective_toxicity_analysis.js" beforeDir="false" afterPath="$PROJECT_DIR$/adjective_toxicity_analysis.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/prettify_trump_tweets.js" beforeDir="false" afterPath="$PROJECT_DIR$/prettify_trump_tweets.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/toxicity_score.js" beforeDir="false" afterPath="$PROJECT_DIR$/toxicity_score.js" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1S7S2cmg8Fs1i10EOa02DYLoUTl" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a569f8a9-a7af-4424-baf7-15aa3da4b1f9" name="Default Changelist" comment="" />
+      <created>1570912934997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1570912934997</updated>
+      <workItem from="1570912937450" duration="13401000" />
+      <workItem from="1571067497247" duration="1565000" />
+      <workItem from="1571145969518" duration="165000" />
+      <workItem from="1571284371092" duration="3065000" />
+      <workItem from="1571336040410" duration="224000" />
+      <workItem from="1571586087483" duration="8088000" />
+      <workItem from="1571619020245" duration="3313000" />
+      <workItem from="1571680424985" duration="1226000" />
+      <workItem from="1571688209848" duration="2518000" />
+      <workItem from="1571781336835" duration="2147000" />
+      <workItem from="1571868398505" duration="2969000" />
+      <workItem from="1572641140111" duration="8058000" />
+      <workItem from="1572661118887" duration="521000" />
+      <workItem from="1572664693297" duration="310000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

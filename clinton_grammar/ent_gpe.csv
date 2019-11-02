@@ -1,0 +1,747 @@
+,Word,Count
+2,the united states,968
+12,america,927
+112,iraq,491
+20,japan,336
+90,israel,237
+1,washington,209
+17,kosovo,164
+61,korea,152
+38,new york,151
+136,pakistan,151
+22,russia,146
+25,brazil,130
+8,united states,111
+168,mexico,108
+156,colombia,107
+137,north korea,105
+70,california,100
+135,india,91
+83,the state of the union,83
+16,the united states of america,79
+172,china,76
+107,gaza,70
+7,cuba,69
+106,florida,68
+29,bosnia,67
+315,iran,63
+71,arkansas,58
+59,guam,58
+65,maryland,57
+41,chicago,55
+192,jordan,53
+267,honduras,53
+56,states,52
+86,"washington , dc",48
+6,h .r,43
+268,nicaragua,42
+93,northern ireland,40
+211,baltimore,37
+58,jr .,37
+24,germany,33
+138,boston,32
+44,argentina,32
+64,the district of columbia,32
+72,texas,32
+469,libya,31
+66,virginia,31
+367,south korea,29
+132,the west bank,28
+104,illinois,27
+213,burma,26
+647,usa,26
+153,montenegro,26
+26,peru,26
+27,ecuador,26
+261,baghdad,26
+214,sudan,25
+164,north carolina,25
+60,malaysia,25
+84,new york city,24
+23,turkey,24
+272,el salvador,23
+294,venezuela,23
+269,guatemala,22
+175,madam,22
+82,vietnam,21
+67,michigan,21
+392,cyprus,20
+286,kuwait,20
+152,the federal republic of yugoslavia serbia,19
+491,rhode island,18
+291,minnesota,18
+170,canada,18
+133,jerusalem,18
+21,france,17
+408,ethiopia,17
+31,yugoslavia,16
+299,taiwan,16
+409,eritrea,16
+3,kentucky,16
+167,spain,16
+466,afghanistan,16
+122,los angeles,15
+78,great britain,14
+370,tokyo,14
+421,osaka,14
+184,angola,14
+358,tennessee,13
+95,ireland,13
+32,belgrade,13
+143,md,13
+63,georgia,13
+103,utah,12
+101,massachusetts,12
+75,ohio,12
+283,south africa,12
+313,new zealand,12
+238,thailand,12
+253,saudi arabia,12
+343,sr .,12
+79,wyoming,12
+237,indonesia,12
+115,pennsylvania,11
+606,the republic of serbia,11
+399,north korea's,11
+393,ukraine,11
+18,serbia,11
+76,alabama,11
+597,detroit,11
+45,chile,11
+524,hanukkah,11
+99,the soviet union,11
+204,philadelphia,11
+4,new jersey,11
+117,mississippi,11
+126,seq .,10
+48,italy,10
+40,miami,10
+140,the state of the union address,10
+197,egypt,10
+144,missouri,10
+57,the united kingdom,10
+467,congo,10
+372,seoul,10
+386,geneva,10
+245,little rock,10
+641,atlanta,10
+110,london,9
+109,amman,9
+49,us,9
+712,bih,9
+403,moscow,9
+154,albania,9
+700,romania,9
+30,syria,9
+506,nigeria,9
+177,the u .n .,9
+310,australia,8
+301,paris,8
+304,haiti,8
+118,jonesboro,8
+381,greece,8
+111,oslo,8
+68,puerto rico,8
+486,dayton,8
+633,indiana,8
+625,buffalo,8
+353,va,8
+262,the u .n,8
+276,nevada,7
+199,slovenia,7
+271,costa rica,7
+373,mtcr,7
+102,north dakota,7
+443,south korea's,7
+73,south carolina,7
+54,new hampshire,7
+507,croatia,7
+19,connecticut,7
+425,hawaii,7
+485,herzegovina,6
+369,kuala lumpur,6
+37,the czech republic,6
+234,queens,6
+298,arizona,6
+241,england,6
+119,springfield,6
+300,tibet,6
+94,rwanda,6
+295,bahrain,6
+278,colorado,6
+479,oklahoma city,6
+274,soviet union,6
+414,okinawa,6
+337,lebanon,6
+216,louisiana,6
+537,lawton,6
+55,hollywood,6
+62,the united states',5
+215,new orleans,5
+731,cologne,5
+198,alexandria,5
+231,kazakhstan,5
+463,seattle,5
+47,columbus,5
+196,queenstown,5
+50,poland,5
+423,ghana,5
+431,yongbyon,5
+162,montana,5
+383,cleveland,5
+147,washington state,5
+607,the republic of montenegro,5
+243,brooklyn,5
+155,macedonia,5
+535,masada,5
+123,san francisco,5
+434,alaska,5
+433,the republic of korea,5
+270,belize,5
+540,tel aviv,5
+9,inc .,4
+543,bethlehem,4
+296,qatar,4
+255,hungary,4
+316,switzerland,4
+312,the netherlands,4
+556,the russian federation,4
+279,new mexico,4
+290,podesta,4
+558,oman,4
+297,marijuana,4
+555,duma,4
+77,new haven,4
+356,jones,4
+603,delaware,4
+442,pyongyang,4
+445,u .n,4
+578,the socialist republic of vietnam,4
+427,beijing,4
+574,lockerbie,4
+194,uganda,4
+166,pinochet,4
+120,oregon,4
+339,iowa,4
+598,wisconsin,4
+201,the federal republic of yugoslavia,4
+145,kansas,4
+161,mongolia,4
+398,budapest,3
+509,kyrgyzstan,3
+588,moldova,3
+435,san diego,3
+287,georgetown,3
+410,arlington,3
+394,the hague,3
+510,tajikistan,3
+404,orville,3
+402,vermont,3
+501,cambodia,3
+275,las vegas,3
+511,uzbekistan,3
+636,bangladesh,3
+380,netherlands,3
+440,kyoto,3
+655,erie county,3
+407,camp david,3
+475,new york state,3
+352,newport,3
+487,the republic of bosnia,3
+492,milwaukee,3
+355,ar,3
+311,belgium,3
+572,j .c,3
+308,panama,3
+306,tegucigalpa,3
+559,shelton,3
+457,the new republic,3
+366,kuwaiti,3
+450,the federated states,3
+448,micronesia,3
+379,philippines,3
+635,dc,3
+600,kurdistan,3
+265,matthew,3
+230,cape canaveral,3
+200,the korea-u .s,3
+87,iris,3
+121,paducah,3
+244,new york's,3
+176,the gaza strip,3
+226,houston,3
+151,prc,3
+157,app .,3
+711,college park,3
+13,sweden,3
+96,manhattan,3
+219,bolivia,3
+69,the dominican republic,3
+227,maine,3
+11,norway,3
+10,iceland,3
+100,south dakota,3
+80,laramie,3
+124,long beach,3
+150,the people's republic of china,3
+563,capitol,2
+632,san antonio,2
+478,kashmir,2
+130,wye mills,2
+483,the republic of bosnia and herzegovina,2
+484,the republic of croatia,2
+165,united kingdom,2
+74,bresnahan,2
+638,racak,2
+331,memphis,2
+160,beersheba,2
+329,newark,2
+488,bosnia and herzegovina,2
+642,denver,2
+212,brussels,2
+473,cedar rapids,2
+129,the republic of lithuania,2
+387,vienna,2
+579,the state of maryland,2
+377,sultan,2
+581,montgomery county,2
+613,the district of columbia court of appeals,2
+97,mexico city,2
+186,benguela province,2
+179,the virgin islands,2
+615,the democratic republic of the congo,2
+191,d .c .,2
+91,prague,2
+347,the state of arkansas,2
+388,plenary,2
+361,moran,2
+390,scotland,2
+195,capital city,2
+568,a federal republic of yugoslavia,2
+202,watts,2
+624,catellus,2
+560,austria,2
+474,zimbabwe,2
+326,bronx,2
+51,pulaski,2
+490,bosnia-herzegovina,2
+280,governorships,2
+736,chiapas,2
+724,wintergreen,2
+127,the republic of estonia,2
+288,ventura,2
+515,luke,2
+432,amcham,2
+285,beverly malone,2
+430,akasaka,2
+419,the korea training center,2
+281,palestine,2
+671,the state of the union address released,2
+719,tanker,2
+420,plymouth,2
+429,hiroshima,2
+252,morocco,2
+538,east africa,2
+273,birmingham,2
+428,nagasaki,2
+259,madrid,2
+722,the district of columbia courts',2
+534,gaza city,2
+424,west africa,2
+596,resolutions,2
+706,appalachia,2
+28,brasilia,2
+39,palm beach,2
+36,bulgaria,2
+587,azerbaijan,2
+116,pearl,2
+652,kenya,2
+33,breaux,2
+496,wynne,2
+305,central africa,2
+505,laos,2
+159,hatch,2
+302,hurricane mitch,2
+589,turkmenistan,2
+586,armenia,2
+400,levin,2
+436,dallas,2
+680,oakton,2
+452,the marshall islands,2
+235,newsday,2
+314,uae,2
+725,pine ridge,1
+582,camden yards,1
+728,damascus,1
+726,duluth,1
+723,the district of columbia courts,1
+583,west baltimore,1
+584,christa,1
+585,the city of neighborhoods,1
+727,mobile,1
+662,khobar,1
+580,annapolis,1
+554,the russian duma,1
+552,houghton,1
+551,peace,1
+550,puerto rico's,1
+740,yemen,1
+741,leonard r,1
+549,jew,1
+742,petersen,1
+548,jericho,1
+547,nablus,1
+546,jenin,1
+545,tulkarem,1
+544,hebron,1
+743,plenipotentiary,1
+542,ramallah,1
+541,haifa,1
+539,the state of israel,1
+536,wye,1
+744,the district of delaware,1
+533,stalin,1
+553,sharif,1
+739,brownsville,1
+729,obuchi,1
+557,united arab emirates,1
+577,kwanzaa,1
+576,cutoff,1
+575,the l .a,1
+573,louisville,1
+730,san jose,1
+571,norfolk,1
+570,the jerusalem room,1
+732,dover,1
+569,non-medicaid,1
+733,merrimack,1
+567,doha,1
+566,the united arab emirates,1
+734,manchester,1
+564,livingston,1
+562,rockville,1
+561,the state of the union address social security,1
+735,merida,1
+737,yucatan peninsula,1
+738,quintana roo,1
+565,fielding,1
+602,p .j .,1
+590,winston-salem,1
+591,santa fe,1
+683,pomeroy,1
+684,markey,1
+685,smith,1
+686,nashua,1
+687,athens,1
+688,tallahassee,1
+651,usama,1
+650,former yugoslav republic,1
+649,tuzla,1
+648,north,1
+689,gadsden county,1
+646,that united states,1
+645,the state of the union in '95,1
+644,this—$6,1
+643,concord,1
+690,the state of virginia,1
+640,fontana,1
+639,south boston,1
+637,sba,1
+691,cecilia,1
+692,holland,1
+634,east tennessee,1
+693,knollenberg,1
+653,tanzania,1
+654,edinboro,1
+682,pickering,1
+659,namibia,1
+661,new delhi,1
+663,preston,1
+664,the soviet state,1
+665,hamburg,1
+666,ny,1
+667,norristown,1
+668,pa,1
+669,chad,1
+660,islamabad,1
+670,burundi,1
+672,north little rock,1
+681,bliley,1
+658,holbrooke,1
+673,white county,1
+674,francis county,1
+657,reykjavik,1
+675,lester,1
+656,the state of pennsylvania,1
+676,cuyahoga county,1
+677,monroe,1
+678,rome,1
+679,mercusor,1
+694,stupak,1
+631,africa partnership,1
+695,red wings,1
+714,kotor varos,1
+707,the state of the union address i set,1
+608,federal republic of yugoslavia serbia,1
+708,dade county,1
+605,havana,1
+709,caroline,1
+710,topeka,1
+604,julia,1
+531,the united states constitution,1
+713,the federal republic of yugoslavia fry army,1
+601,people's republic of china,1
+599,ucla,1
+705,the state of the union address :,1
+715,prijedor,1
+716,mostar,1
+717,brcko,1
+718,mladic,1
+720,river,1
+595,charleston,1
+594,kiawah island,1
+593,aspen,1
+592,beaver creek,1
+721,the district of columbia code,1
+609,the united state,1
+704,the state of massachusetts,1
+630,botswana,1
+620,ottawa,1
+629,schedule,1
+628,frankfurt,1
+627,lautenberg,1
+626,south kingstown,1
+696,beebe,1
+697,noonan,1
+623,riverside county,1
+622,orange county,1
+698,byrne,1
+621,patagonia,1
+619,dershowitz,1
+610,ic,1
+618,johannesburg,1
+617,the district of colorado,1
+616,the kingdom of cambodia,1
+699,the district of connecticut,1
+701,department,1
+702,davos,1
+614,luxembourg,1
+703,"the state of the union , america",1
+612,district of columbia court of appeals,1
+611,stump,1
+532,isaiah,1
+0,judiciary,1
+530,commonwealths,1
+257,west palm beach,1
+254,geza jeszenszky,1
+251,florence,1
+250,wyoming h .r,1
+249,casper,1
+248,the state of arkansas h .r,1
+247,new york senators,1
+246,trina,1
+242,hope,1
+240,bronx borough,1
+239,frampton,1
+236,naples,1
+233,tampa,1
+232,south florida,1
+229,indian country,1
+228,the state of alaska,1
+225,samper,1
+224,the free trade area,1
+223,botero,1
+222,southern africa,1
+221,bolívar,1
+220,the united states state department,1
+218,non-ohio,1
+217,cafaros,1
+256,cape verde,1
+258,east room,1
+209,fujimori,1
+260,the state of utah,1
+328,faulkner,1
+327,yoknapatawpha county,1
+325,taos,1
+324,saskatchewan,1
+323,bilbao,1
+322,kazakh,1
+321,bhutan,1
+320,kirkuk,1
+319,amara provinces,1
+318,nasiriya,1
+317,ankara,1
+309,uk,1
+307,sotochio,1
+303,mitch,1
+293,belize city,1
+292,kansas city,1
+289,bosnia hercegovina,1
+284,goree island,1
+282,capetown,1
+277,the district of arizona,1
+266,the united missionary baptist convention,1
+264,the girl scouts,1
+263,montgomery,1
+210,guarantors,1
+208,pinocchio,1
+529,academy,1
+139,houses,1
+131,d .c,1
+128,tallinn,1
+125,forego,1
+114,edinborough,1
+113,west paducah,1
+108,rochester,1
+105,dakotas,1
+98,kosovar,1
+92,steve,1
+89,manhattan borough,1
+88,eliot,1
+85,the states of america,1
+81,jasper,1
+53,biden,1
+52,hagel,1
+46,rio,1
+43,ecuadoran,1
+42,the mexico city,1
+35,menendez,1
+34,torricelli,1
+15,finland,1
+14,denmark,1
+5,vento,1
+134,erez,1
+141,the federal republic of germany,1
+207,sharm el-sheikh summit,1
+142,silver spring,1
+206,the h,1
+205,the h .r,1
+203,l .a,1
+193,entebbe,1
+190,cabinda province,1
+189,malongo,1
+188,namibe province,1
+187,namibe,1
+185,katumbela,1
+183,clintonthe united states of america,1
+182,the state of israel y,1
+181,ministries,1
+180,gaza strip,1
+178,omnibus,1
+174,bogota,1
+173,henney,1
+171,kuala lampur,1
+169,sierra,1
+163,langley,1
+158,the republic of georgia,1
+149,engineering,1
+148,kelso,1
+146,il,1
+330,nathan zuckerman,1
+332,tonys,1
+333,normandy,1
+493,hill,1
+482,the governments of serbia,1
+481,the united states trade representative,1
+480,"the united states """,1
+477,brookings,1
+476,santa claus,1
+472,kinshasa,1
+471,ouagadougou,1
+470,lusaka,1
+468,mozambique,1
+465,unctad,1
+464,uncitral,1
+462,south korea statement,1
+461,petersburg,1
+460,the state duma,1
+459,the state of illinois,1
+458,fairfax county,1
+456,the people of guam,1
+455,gi,1
+454,babeldoab,1
+453,palau,1
+451,tenorio,1
+449,the republic of palau,1
+447,rangoon,1
+489,al .,1
+494,the republic of cyprus,1
+334,west virginia,1
+495,paula jones,1
+528,north africa,1
+527,west point,1
+526,kerrick,1
+525,cambridge,1
+523,derry,1
+522,belfast,1
+521,the state of tennessee,1
+520,nashville,1
+519,czechoslovakia,1
+518,kismet,1
+517,oklahoma,1
+516,atlantic city,1
+514,annette,1
+513,murray,1
+512,the district of columbia judicial nomination commission,1
+508,former yugoslavian republic of macedonia,1
+504,jamaica,1
+503,hong kong,1
+502,dominican republic,1
+500,burman,1
+499,bahamas,1
+498,aruba,1
+497,jammu,1
+446,the republic of korea armed forces,1
+444,taepodong,1
+441,republic of korea 5,1
+439,the republic of poland,1
+371,hakone,1
+368,vancouver,1
+365,mission,1
+364,ivany,1
+363,shanghai,1
+362,santiago,1
+360,carthage,1
+359,indianapolis,1
+357,new yorker,1
+354,highfill,1
+351,the state of georgia,1
+350,wayne county,1
+349,flint,1
+348,oxford,1
+346,northwest arkansas,1
+345,hiwassee,1
+344,tyson,1
+342,benton county,1
+341,the federal city,1
+340,new york city's,1
+338,la jolla,1
+336,vartan,1
+335,beirut,1
+374,sochi,1
+375,osan,1
+376,nazi germany,1
+411,veterans,1
+438,san juan heights,1
+437,tx,1
+426,sanyo,1
+422,me—[laughter]—and,1
+418,avco,1
+417,a united states district court,1
+416,the united states overseas private investment corporation,1
+415,the united states export-import banks,1
+413,managua,1
+412,the state of michigan,1
+406,curran,1
+378,brunei,1
+405,new bedford,1
+401,quinn,1
+397,ghauri,1
+396,ministerial,1
+395,johnston island,1
+391,belarus,1
+389,edinburgh,1
+385,moratoria,1
+384,"destruction""—wmd",1
+382,east jerusalem,1
+745,cholakis,1
